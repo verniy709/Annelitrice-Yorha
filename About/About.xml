@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Annelitrice Yorha Apparels and Factions</name>
+	<author>Verniy709</author>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+   <packageId>Verniy709.Annelitrice.Yorha</packageId>
+	<description>
+</description>
+<modDependencies>
+	<li>
+		<packageId>Verniy709.Annelitrice2.0</packageId>
+		<displayName>Annelitrice 2.0</displayName>
+	</li>
+</modDependencies>
+<loadAfter>
+	<li>Verniy709.Annelitrice2.0</li>
+</loadAfter>
+
+</ModMetaData>
