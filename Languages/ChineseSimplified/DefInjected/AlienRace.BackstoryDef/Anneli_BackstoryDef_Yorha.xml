@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Adulthood -->
+
+  <Anneli_Yorha_Combatant.title>Annelitrice Yorha Combatant</Anneli_Yorha_Combatant.title>
+  <Anneli_Yorha_Combatant.titleShort>Yorha Combatant</Anneli_Yorha_Combatant.titleShort>
+  <Anneli_Yorha_Combatant.baseDescription>[PAWN_nameDef] acts as a Yorha combatant, a well-trained and determined warrior.</Anneli_Yorha_Combatant.baseDescription>
+
+  <Anneli_Yorha_FrontlineOfficer.title>Annelitrice Yorha Frontline Officer</Anneli_Yorha_FrontlineOfficer.title>
+  <Anneli_Yorha_FrontlineOfficer.titleShort>Yorha Frontline Officer</Anneli_Yorha_FrontlineOfficer.titleShort>
+  <Anneli_Yorha_FrontlineOfficer.baseDescription>[PAWN_nameDef] acts as a Yorha frontline officer, responsible for building fortifications.</Anneli_Yorha_FrontlineOfficer.baseDescription>
+
+  <Anneli_Yorha_Scout.title>Annelitrice Yorha Scout</Anneli_Yorha_Scout.title>
+  <Anneli_Yorha_Scout.titleShort>Yorha Scout</Anneli_Yorha_Scout.titleShort>
+  <Anneli_Yorha_Scout.baseDescription>[PAWN_nameDef] acts as a Yorha scout, eyes and ears on the field.</Anneli_Yorha_Scout.baseDescription>
+
+  <Anneli_Yorha_Logistics_Officer.title>Annelitrice Yorha Logistics Officer</Anneli_Yorha_Logistics_Officer.title>
+  <Anneli_Yorha_Logistics_Officer.titleShort>Yorha Logistics Officer</Anneli_Yorha_Logistics_Officer.titleShort>
+  <Anneli_Yorha_Logistics_Officer.baseDescription>[PAWN_nameDef] acts as a Yorha logistics officer. Her duty is confidential, because everyone pretends foods are not needed.</Anneli_Yorha_Logistics_Officer.baseDescription>
+
+  <Anneli_Yorha_Commander.title>Annelitrice Yorha Commander</Anneli_Yorha_Commander.title>
+  <Anneli_Yorha_Commander.titleShort>Yorha Commander</Anneli_Yorha_Commander.titleShort>
+  <Anneli_Yorha_Commander.baseDescription>[PAWN_nameDef] acts as a Yorha commander. She does not spend much time on trivia.</Anneli_Yorha_Commander.baseDescription>
+
+  <Anneli_Yorha_Deserter.title>Annelitrice Yorha Deserter</Anneli_Yorha_Deserter.title>
+  <Anneli_Yorha_Deserter.titleShort>Yorha Deserter</Anneli_Yorha_Deserter.titleShort>
+  <Anneli_Yorha_Deserter.baseDescription>[PAWN_nameDef] acts as a Yorha deserter. She has some questions about the goal of this organization.</Anneli_Yorha_Deserter.baseDescription>
+
+  <Anneli_Yorha_Executioner.title>Annelitrice Yorha Executioner</Anneli_Yorha_Executioner.title>
+  <Anneli_Yorha_Executioner.titleShort>Yorha Executioner</Anneli_Yorha_Executioner.titleShort>
+  <Anneli_Yorha_Executioner.baseDescription>[PAWN_nameDef] acts as a Yorha executioner. She takes care of the ones who ask too many questions.</Anneli_Yorha_Executioner.baseDescription>
+
+  <Anneli_Yorha_Hacker.title>Annelitrice Yorha Hacker</Anneli_Yorha_Hacker.title>
+  <Anneli_Yorha_Hacker.titleShort>Yorha Hacker</Anneli_Yorha_Hacker.titleShort>
+  <Anneli_Yorha_Hacker.baseDescription>[PAWN_nameDef] acts as a Yorha hacker. She provides intelligence support for operations.</Anneli_Yorha_Hacker.baseDescription>
+
+  <Anneli_Yorha_Healer.title>Annelitrice Yorha Healer</Anneli_Yorha_Healer.title>
+  <Anneli_Yorha_Healer.titleShort>Yorha Healer</Anneli_Yorha_Healer.titleShort>
+  <Anneli_Yorha_Healer.baseDescription>[PAWN_nameDef] acts as a Yorha healer, "reparing" the wounds.</Anneli_Yorha_Healer.baseDescription>
+
+  <Anneli_Yorha_Operator.title>Annelitrice Yorha Operator</Anneli_Yorha_Operator.title>
+  <Anneli_Yorha_Operator.titleShort>Yorha Operator</Anneli_Yorha_Operator.titleShort>
+  <Anneli_Yorha_Operator.baseDescription>[PAWN_nameDef] acts as a Yorha operator, not designed for combat.</Anneli_Yorha_Operator.baseDescription>
+
+
+</LanguageData>
