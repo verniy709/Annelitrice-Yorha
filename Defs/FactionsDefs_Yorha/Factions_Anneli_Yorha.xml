@@ -3,7 +3,7 @@
 
 	<FactionDef ParentName="Anneli_FactionBase">
 		<defName>Anneli_Faction_Yorha</defName>
-		<label>Anneli Faction Yorha</label>
+		<label>Anneli Faction Yorha Butai</label>
 		<description>The Yorha Annelitrices believe they are androids who have lost their creators and been trapped in nihilism. Because they claim they are androids, any activity that indicates their organic nature is a top secret, including eating, drinking, excretion, etc. Some outsiders were executed simply because they unfortunately witnessed Yorha Annelitrices drinking water. However, since they mostly stay in their secret bunkers, most residents on this planet do not even know the existence of Yorha Annelitrices, let alone figure out their origins and intentions.</description>
 		<pawnSingular>Annelitrice</pawnSingular>
 		<pawnsPlural>Annelitrices</pawnsPlural>

@@ -6,241 +6,241 @@
 
   <!-- Recipe Users: Anneli_Yorha_Workbench -->
 
-  <Make_Anneli_Yorha_Leotard_A.label>make (Yorha)1AB_Leotard_White</Make_Anneli_Yorha_Leotard_A.label>
-  <Make_Anneli_Yorha_Leotard_A.description>Make (Yorha)1AB_Leotard_White.</Make_Anneli_Yorha_Leotard_A.description>
-  <Make_Anneli_Yorha_Leotard_A.jobString>Making (Yorha)1AB_Leotard_White.</Make_Anneli_Yorha_Leotard_A.jobString>
+  <Make_Anneli_Yorha_Leotard_A.label>制作 (寄叶)1AB_体操服_白</Make_Anneli_Yorha_Leotard_A.label>
+  <Make_Anneli_Yorha_Leotard_A.description>制作 (寄叶)1AB_体操服_白.</Make_Anneli_Yorha_Leotard_A.description>
+  <Make_Anneli_Yorha_Leotard_A.jobString>制作中 (寄叶)1AB_体操服_白.</Make_Anneli_Yorha_Leotard_A.jobString>
 
-  <Make_Anneli_Yorha_Leotard_B.label>make (Yorha)1AB_Leotard_Black</Make_Anneli_Yorha_Leotard_B.label>
-  <Make_Anneli_Yorha_Leotard_B.description>Make (Yorha)1AB_Leotard_Black.</Make_Anneli_Yorha_Leotard_B.description>
-  <Make_Anneli_Yorha_Leotard_B.jobString>Making (Yorha)1AB_Leotard_Black.</Make_Anneli_Yorha_Leotard_B.jobString>
+  <Make_Anneli_Yorha_Leotard_B.label>制作 (寄叶)1AB_体操服_黑</Make_Anneli_Yorha_Leotard_B.label>
+  <Make_Anneli_Yorha_Leotard_B.description>制作 (寄叶)1AB_体操服_黑.</Make_Anneli_Yorha_Leotard_B.description>
+  <Make_Anneli_Yorha_Leotard_B.jobString>制作中 (寄叶)1AB_体操服_黑.</Make_Anneli_Yorha_Leotard_B.jobString>
 
-  <Make_Anneli_Yorha_Tight_A.label>make (Yorha)1AB_Tight_White</Make_Anneli_Yorha_Tight_A.label>
-  <Make_Anneli_Yorha_Tight_A.description>Make (Yorha)1AB_Tight_White.</Make_Anneli_Yorha_Tight_A.description>
-  <Make_Anneli_Yorha_Tight_A.jobString>Making (Yorha)1AB_Tight_White.</Make_Anneli_Yorha_Tight_A.jobString>
+  <Make_Anneli_Yorha_Tight_A.label>制作 (寄叶)1AB_紧身衣_白</Make_Anneli_Yorha_Tight_A.label>
+  <Make_Anneli_Yorha_Tight_A.description>制作 (寄叶)1AB_紧身衣_白.</Make_Anneli_Yorha_Tight_A.description>
+  <Make_Anneli_Yorha_Tight_A.jobString>制作中 (寄叶)1AB_紧身衣_白.</Make_Anneli_Yorha_Tight_A.jobString>
 
-  <Make_Anneli_Yorha_Tight_B.label>make (Yorha)1AB_Tight_Black</Make_Anneli_Yorha_Tight_B.label>
-  <Make_Anneli_Yorha_Tight_B.description>Make (Yorha)1AB_Tight_Black.</Make_Anneli_Yorha_Tight_B.description>
-  <Make_Anneli_Yorha_Tight_B.jobString>Making (Yorha)1AB_Tight_Black.</Make_Anneli_Yorha_Tight_B.jobString>
+  <Make_Anneli_Yorha_Tight_B.label>制作 (寄叶)1AB_紧身衣_黑</Make_Anneli_Yorha_Tight_B.label>
+  <Make_Anneli_Yorha_Tight_B.description>制作 (寄叶)1AB_紧身衣_黑.</Make_Anneli_Yorha_Tight_B.description>
+  <Make_Anneli_Yorha_Tight_B.jobString>制作中 (寄叶)1AB_紧身衣_黑.</Make_Anneli_Yorha_Tight_B.jobString>
 
-  <Make_Anneli_Yorha_Zentai_A.label>make (Yorha)1ABC_Zentai_White</Make_Anneli_Yorha_Zentai_A.label>
-  <Make_Anneli_Yorha_Zentai_A.description>Make (Yorha)1ABC_Zentai_White.</Make_Anneli_Yorha_Zentai_A.description>
-  <Make_Anneli_Yorha_Zentai_A.jobString>Making (Yorha)1ABC_Zentai_White.</Make_Anneli_Yorha_Zentai_A.jobString>
+  <Make_Anneli_Yorha_Zentai_A.label>制作 (寄叶)1ABC_全包紧身衣_白</Make_Anneli_Yorha_Zentai_A.label>
+  <Make_Anneli_Yorha_Zentai_A.description>制作 (寄叶)1ABC_全包紧身衣_白.</Make_Anneli_Yorha_Zentai_A.description>
+  <Make_Anneli_Yorha_Zentai_A.jobString>制作中 (寄叶)1ABC_全包紧身衣_白.</Make_Anneli_Yorha_Zentai_A.jobString>
 
-  <Make_Anneli_Yorha_Zentai_B.label>make (Yorha)1ABC_Zentai_Black</Make_Anneli_Yorha_Zentai_B.label>
-  <Make_Anneli_Yorha_Zentai_B.description>Make (Yorha)1ABC_Zentai_Black.</Make_Anneli_Yorha_Zentai_B.description>
-  <Make_Anneli_Yorha_Zentai_B.jobString>Making (Yorha)1ABC_Zentai_Black.</Make_Anneli_Yorha_Zentai_B.jobString>
+  <Make_Anneli_Yorha_Zentai_B.label>制作 (寄叶)1ABC_全包紧身衣_黑</Make_Anneli_Yorha_Zentai_B.label>
+  <Make_Anneli_Yorha_Zentai_B.description>制作 (寄叶)1ABC_全包紧身衣_黑.</Make_Anneli_Yorha_Zentai_B.description>
+  <Make_Anneli_Yorha_Zentai_B.jobString>制作中 (寄叶)1ABC_全包紧身衣_黑.</Make_Anneli_Yorha_Zentai_B.jobString>
 
-  <Make_Anneli_Yorha_Socks.label>make (Yorha)1C_Socks</Make_Anneli_Yorha_Socks.label>
-  <Make_Anneli_Yorha_Socks.description>Make (Yorha)1C_Socks.</Make_Anneli_Yorha_Socks.description>
-  <Make_Anneli_Yorha_Socks.jobString>Making (Yorha)1C_Socks.</Make_Anneli_Yorha_Socks.jobString>
+  <Make_Anneli_Yorha_Socks.label>制作 (寄叶)1C_短袜</Make_Anneli_Yorha_Socks.label>
+  <Make_Anneli_Yorha_Socks.description>制作 (寄叶)1C_短袜.</Make_Anneli_Yorha_Socks.description>
+  <Make_Anneli_Yorha_Socks.jobString>制作中 (寄叶)1C_短袜.</Make_Anneli_Yorha_Socks.jobString>
 
-  <Make_Anneli_Yorha_Stockings_A.label>make (Yorha)1C_Stockings_A</Make_Anneli_Yorha_Stockings_A.label>
-  <Make_Anneli_Yorha_Stockings_A.description>Make (Yorha)1C_Stockings_A.</Make_Anneli_Yorha_Stockings_A.description>
-  <Make_Anneli_Yorha_Stockings_A.jobString>Making (Yorha)1C_Stockings_A.</Make_Anneli_Yorha_Stockings_A.jobString>
+  <Make_Anneli_Yorha_Stockings_A.label>制作 (寄叶)1C_长袜_A</Make_Anneli_Yorha_Stockings_A.label>
+  <Make_Anneli_Yorha_Stockings_A.description>制作 (寄叶)1C_长袜_A.</Make_Anneli_Yorha_Stockings_A.description>
+  <Make_Anneli_Yorha_Stockings_A.jobString>制作中 (寄叶)1C_长袜_A.</Make_Anneli_Yorha_Stockings_A.jobString>
 
-  <Make_Anneli_Yorha_Stockings_B.label>make (Yorha)1C_Stockings_B</Make_Anneli_Yorha_Stockings_B.label>
-  <Make_Anneli_Yorha_Stockings_B.description>Make (Yorha)1C_Stockings_B.</Make_Anneli_Yorha_Stockings_B.description>
-  <Make_Anneli_Yorha_Stockings_B.jobString>Making (Yorha)1C_Stockings_B.</Make_Anneli_Yorha_Stockings_B.jobString>
+  <Make_Anneli_Yorha_Stockings_B.label>制作 (寄叶)1C_长袜_B</Make_Anneli_Yorha_Stockings_B.label>
+  <Make_Anneli_Yorha_Stockings_B.description>制作 (寄叶)1C_长袜_B.</Make_Anneli_Yorha_Stockings_B.description>
+  <Make_Anneli_Yorha_Stockings_B.jobString>制作中 (寄叶)1C_长袜_B.</Make_Anneli_Yorha_Stockings_B.jobString>
 
-  <Make_Anneli_Yorha_Stockings_C.label>make (Yorha)1C_Stockings_C</Make_Anneli_Yorha_Stockings_C.label>
-  <Make_Anneli_Yorha_Stockings_C.description>Make (Yorha)1C_Stockings_C.</Make_Anneli_Yorha_Stockings_C.description>
-  <Make_Anneli_Yorha_Stockings_C.jobString>Making (Yorha)1C_Stockings_C.</Make_Anneli_Yorha_Stockings_C.jobString>
+  <Make_Anneli_Yorha_Stockings_C.label>制作 (寄叶)1C_长袜_C</Make_Anneli_Yorha_Stockings_C.label>
+  <Make_Anneli_Yorha_Stockings_C.description>制作 (寄叶)1C_长袜_C.</Make_Anneli_Yorha_Stockings_C.description>
+  <Make_Anneli_Yorha_Stockings_C.jobString>制作中 (寄叶)1C_长袜_C.</Make_Anneli_Yorha_Stockings_C.jobString>
 
-  <Make_Anneli_Yorha_Corset.label>make (Yorha)2A_Corset</Make_Anneli_Yorha_Corset.label>
-  <Make_Anneli_Yorha_Corset.description>Make (Yorha)2A_Corset.</Make_Anneli_Yorha_Corset.description>
-  <Make_Anneli_Yorha_Corset.jobString>Making (Yorha)2A_Corset.</Make_Anneli_Yorha_Corset.jobString>
+  <Make_Anneli_Yorha_Corset.label>制作 (寄叶)2A_束腰上衣</Make_Anneli_Yorha_Corset.label>
+  <Make_Anneli_Yorha_Corset.description>制作 (寄叶)2A_束腰上衣.</Make_Anneli_Yorha_Corset.description>
+  <Make_Anneli_Yorha_Corset.jobString>制作中 (寄叶)2A_束腰上衣.</Make_Anneli_Yorha_Corset.jobString>
 
-  <Make_Anneli_Yorha_HealerPeplum.label>make (Yorha)2A_HealerPeplum</Make_Anneli_Yorha_HealerPeplum.label>
-  <Make_Anneli_Yorha_HealerPeplum.description>Make (Yorha)2A_HealerPeplum.</Make_Anneli_Yorha_HealerPeplum.description>
-  <Make_Anneli_Yorha_HealerPeplum.jobString>Making (Yorha)2A_HealerPeplum.</Make_Anneli_Yorha_HealerPeplum.jobString>
+  <Make_Anneli_Yorha_HealerPeplum.label>制作 (寄叶)2A_医疗兵腰裙</Make_Anneli_Yorha_HealerPeplum.label>
+  <Make_Anneli_Yorha_HealerPeplum.description>制作 (寄叶)2A_医疗兵腰裙.</Make_Anneli_Yorha_HealerPeplum.description>
+  <Make_Anneli_Yorha_HealerPeplum.jobString>制作中 (寄叶)2A_医疗兵腰裙.</Make_Anneli_Yorha_HealerPeplum.jobString>
 
-  <Make_Anneli_Yorha_RebelRags.label>make (Yorha)2A_RebelRags</Make_Anneli_Yorha_RebelRags.label>
-  <Make_Anneli_Yorha_RebelRags.description>Make (Yorha)2A_RebelRags.</Make_Anneli_Yorha_RebelRags.description>
-  <Make_Anneli_Yorha_RebelRags.jobString>Making (Yorha)2A_RebelRags.</Make_Anneli_Yorha_RebelRags.jobString>
+  <Make_Anneli_Yorha_RebelRags.label>制作 (寄叶)2A_叛徒破布</Make_Anneli_Yorha_RebelRags.label>
+  <Make_Anneli_Yorha_RebelRags.description>制作 (寄叶)2A_叛徒破布.</Make_Anneli_Yorha_RebelRags.description>
+  <Make_Anneli_Yorha_RebelRags.jobString>制作中 (寄叶)2A_叛徒破布.</Make_Anneli_Yorha_RebelRags.jobString>
 
-  <Make_Anneli_Yorha_Tuxedo.label>make (Yorha)2A_Tuxedo</Make_Anneli_Yorha_Tuxedo.label>
-  <Make_Anneli_Yorha_Tuxedo.description>Make (Yorha)2A_Tuxedo.</Make_Anneli_Yorha_Tuxedo.description>
-  <Make_Anneli_Yorha_Tuxedo.jobString>Making (Yorha)2A_Tuxedo.</Make_Anneli_Yorha_Tuxedo.jobString>
+  <Make_Anneli_Yorha_Tuxedo.label>制作 (寄叶)2A_礼服上衣</Make_Anneli_Yorha_Tuxedo.label>
+  <Make_Anneli_Yorha_Tuxedo.description>制作 (寄叶)2A_礼服上衣.</Make_Anneli_Yorha_Tuxedo.description>
+  <Make_Anneli_Yorha_Tuxedo.jobString>制作中 (寄叶)2A_礼服上衣.</Make_Anneli_Yorha_Tuxedo.jobString>
 
-  <Make_Anneli_Yorha_LeatherArmor_A.label>make (Yorha)2AB_LeatherArmor_A</Make_Anneli_Yorha_LeatherArmor_A.label>
-  <Make_Anneli_Yorha_LeatherArmor_A.description>Make (Yorha)2AB_LeatherArmor_A.</Make_Anneli_Yorha_LeatherArmor_A.description>
-  <Make_Anneli_Yorha_LeatherArmor_A.jobString>Making (Yorha)2AB_LeatherArmor_A.</Make_Anneli_Yorha_LeatherArmor_A.jobString>
+  <Make_Anneli_Yorha_LeatherArmor_A.label>制作 (寄叶)2AB_皮甲_A</Make_Anneli_Yorha_LeatherArmor_A.label>
+  <Make_Anneli_Yorha_LeatherArmor_A.description>制作 (寄叶)2AB_皮甲_A.</Make_Anneli_Yorha_LeatherArmor_A.description>
+  <Make_Anneli_Yorha_LeatherArmor_A.jobString>制作中 (寄叶)2AB_皮甲_A.</Make_Anneli_Yorha_LeatherArmor_A.jobString>
 
-  <Make_Anneli_Yorha_LeatherArmor_B.label>make (Yorha)2AB_LeatherArmor_B</Make_Anneli_Yorha_LeatherArmor_B.label>
-  <Make_Anneli_Yorha_LeatherArmor_B.description>Make (Yorha)2AB_LeatherArmor_B.</Make_Anneli_Yorha_LeatherArmor_B.description>
-  <Make_Anneli_Yorha_LeatherArmor_B.jobString>Making (Yorha)2AB_LeatherArmor_B.</Make_Anneli_Yorha_LeatherArmor_B.jobString>
+  <Make_Anneli_Yorha_LeatherArmor_B.label>制作 (寄叶)2AB_皮甲_B</Make_Anneli_Yorha_LeatherArmor_B.label>
+  <Make_Anneli_Yorha_LeatherArmor_B.description>制作 (寄叶)2AB_皮甲_B.</Make_Anneli_Yorha_LeatherArmor_B.description>
+  <Make_Anneli_Yorha_LeatherArmor_B.jobString>制作中 (寄叶)2AB_皮甲_B.</Make_Anneli_Yorha_LeatherArmor_B.jobString>
 
-  <Make_Anneli_Yorha_LongDress_A.label>make (Yorha)2AB_LongDress_A</Make_Anneli_Yorha_LongDress_A.label>
-  <Make_Anneli_Yorha_LongDress_A.description>Make (Yorha)2AB_LongDress_A.</Make_Anneli_Yorha_LongDress_A.description>
-  <Make_Anneli_Yorha_LongDress_A.jobString>Making (Yorha)2AB_LongDress_A.</Make_Anneli_Yorha_LongDress_A.jobString>
+  <Make_Anneli_Yorha_LongDress_A.label>制作 (寄叶)2AB_长裙_A</Make_Anneli_Yorha_LongDress_A.label>
+  <Make_Anneli_Yorha_LongDress_A.description>制作 (寄叶)2AB_长裙_A.</Make_Anneli_Yorha_LongDress_A.description>
+  <Make_Anneli_Yorha_LongDress_A.jobString>制作中 (寄叶)2AB_长裙_A.</Make_Anneli_Yorha_LongDress_A.jobString>
 
-  <Make_Anneli_Yorha_LongDress_B.label>make (Yorha)2AB_LongDress_B</Make_Anneli_Yorha_LongDress_B.label>
-  <Make_Anneli_Yorha_LongDress_B.description>Make (Yorha)2AB_LongDress_B.</Make_Anneli_Yorha_LongDress_B.description>
-  <Make_Anneli_Yorha_LongDress_B.jobString>Making (Yorha)2AB_LongDress_B.</Make_Anneli_Yorha_LongDress_B.jobString>
+  <Make_Anneli_Yorha_LongDress_B.label>制作 (寄叶)2AB_长裙_B</Make_Anneli_Yorha_LongDress_B.label>
+  <Make_Anneli_Yorha_LongDress_B.description>制作 (寄叶)2AB_长裙_B.</Make_Anneli_Yorha_LongDress_B.description>
+  <Make_Anneli_Yorha_LongDress_B.jobString>制作中 (寄叶)2AB_长裙_B.</Make_Anneli_Yorha_LongDress_B.jobString>
 
-  <Make_Anneli_Yorha_LongDress_C.label>make (Yorha)2AB_LongDress_C</Make_Anneli_Yorha_LongDress_C.label>
-  <Make_Anneli_Yorha_LongDress_C.description>Make (Yorha)2AB_LongDress_C.</Make_Anneli_Yorha_LongDress_C.description>
-  <Make_Anneli_Yorha_LongDress_C.jobString>Making (Yorha)2AB_LongDress_C.</Make_Anneli_Yorha_LongDress_C.jobString>
+  <Make_Anneli_Yorha_LongDress_C.label>制作 (寄叶)2AB_长裙_C</Make_Anneli_Yorha_LongDress_C.label>
+  <Make_Anneli_Yorha_LongDress_C.description>制作 (寄叶)2AB_长裙_C.</Make_Anneli_Yorha_LongDress_C.description>
+  <Make_Anneli_Yorha_LongDress_C.jobString>制作中 (寄叶)2AB_长裙_C.</Make_Anneli_Yorha_LongDress_C.jobString>
 
-  <Make_Anneli_Yorha_HealerPants.label>make (Yorha)2AB_HealerPants</Make_Anneli_Yorha_HealerPants.label>
-  <Make_Anneli_Yorha_HealerPants.description>Make (Yorha)2AB_HealerPants.</Make_Anneli_Yorha_HealerPants.description>
-  <Make_Anneli_Yorha_HealerPants.jobString>Making (Yorha)2AB_HealerPants.</Make_Anneli_Yorha_HealerPants.jobString>
+  <Make_Anneli_Yorha_HealerPants.label>制作 (寄叶)2B_医疗兵长裤</Make_Anneli_Yorha_HealerPants.label>
+  <Make_Anneli_Yorha_HealerPants.description>制作 (寄叶)2B_医疗兵长裤.</Make_Anneli_Yorha_HealerPants.description>
+  <Make_Anneli_Yorha_HealerPants.jobString>制作中 (寄叶)2B_医疗兵长裤.</Make_Anneli_Yorha_HealerPants.jobString>
 
-  <Make_Anneli_Yorha_Pants.label>make (Yorha)2AB_Pants</Make_Anneli_Yorha_Pants.label>
-  <Make_Anneli_Yorha_Pants.description>Make (Yorha)2AB_Pants.</Make_Anneli_Yorha_Pants.description>
-  <Make_Anneli_Yorha_Pants.jobString>Making (Yorha)2AB_Pants.</Make_Anneli_Yorha_Pants.jobString>
+  <Make_Anneli_Yorha_Pants.label>制作 (寄叶)2B_长裤</Make_Anneli_Yorha_Pants.label>
+  <Make_Anneli_Yorha_Pants.description>制作 (寄叶)2B_长裤.</Make_Anneli_Yorha_Pants.description>
+  <Make_Anneli_Yorha_Pants.jobString>制作中 (寄叶)2B_长裤.</Make_Anneli_Yorha_Pants.jobString>
 
-  <Make_Anneli_Yorha_Shorts.label>make (Yorha)2AB_Shorts</Make_Anneli_Yorha_Shorts.label>
-  <Make_Anneli_Yorha_Shorts.description>Make (Yorha)2AB_Shorts.</Make_Anneli_Yorha_Shorts.description>
-  <Make_Anneli_Yorha_Shorts.jobString>Making (Yorha)2AB_Shorts.</Make_Anneli_Yorha_Shorts.jobString>
+  <Make_Anneli_Yorha_Shorts.label>制作 (寄叶)2B_短裤</Make_Anneli_Yorha_Shorts.label>
+  <Make_Anneli_Yorha_Shorts.description>制作 (寄叶)2B_短裤.</Make_Anneli_Yorha_Shorts.description>
+  <Make_Anneli_Yorha_Shorts.jobString>制作中 (寄叶)2B_短裤.</Make_Anneli_Yorha_Shorts.jobString>
 
-  <Make_Anneli_Yorha_Skirt.label>make (Yorha)2AB_Skirt</Make_Anneli_Yorha_Skirt.label>
-  <Make_Anneli_Yorha_Skirt.description>Make (Yorha)2AB_Skirt.</Make_Anneli_Yorha_Skirt.description>
-  <Make_Anneli_Yorha_Skirt.jobString>Making (Yorha)2AB_Skirt.</Make_Anneli_Yorha_Skirt.jobString>
+  <Make_Anneli_Yorha_Skirt.label>制作 (寄叶)2B_短裙</Make_Anneli_Yorha_Skirt.label>
+  <Make_Anneli_Yorha_Skirt.description>制作 (寄叶)2B_短裙.</Make_Anneli_Yorha_Skirt.description>
+  <Make_Anneli_Yorha_Skirt.jobString>制作中 (寄叶)2B_短裙.</Make_Anneli_Yorha_Skirt.jobString>
 
-  <Make_Anneli_Yorha_TightSkirt.label>make (Yorha)2AB_TightSkirt</Make_Anneli_Yorha_TightSkirt.label>
-  <Make_Anneli_Yorha_TightSkirt.description>Make (Yorha)2AB_TightSkirt.</Make_Anneli_Yorha_TightSkirt.description>
-  <Make_Anneli_Yorha_TightSkirt.jobString>Making (Yorha)2AB_TightSkirt.</Make_Anneli_Yorha_TightSkirt.jobString>
+  <Make_Anneli_Yorha_TightSkirt.label>制作 (寄叶)2B_紧身裙</Make_Anneli_Yorha_TightSkirt.label>
+  <Make_Anneli_Yorha_TightSkirt.description>制作 (寄叶)2B_紧身裙.</Make_Anneli_Yorha_TightSkirt.description>
+  <Make_Anneli_Yorha_TightSkirt.jobString>制作中 (寄叶)2B_紧身裙.</Make_Anneli_Yorha_TightSkirt.jobString>
 
-  <Make_Anneli_Yorha_AnkleBoots_A.label>make (Yorha)2C_AnkleBoots_A</Make_Anneli_Yorha_AnkleBoots_A.label>
-  <Make_Anneli_Yorha_AnkleBoots_A.description>Make (Yorha)2C_AnkleBoots_A.</Make_Anneli_Yorha_AnkleBoots_A.description>
-  <Make_Anneli_Yorha_AnkleBoots_A.jobString>Making (Yorha)2C_AnkleBoots_A.</Make_Anneli_Yorha_AnkleBoots_A.jobString>
+  <Make_Anneli_Yorha_AnkleBoots_A.label>制作 (寄叶)2C_短靴_A</Make_Anneli_Yorha_AnkleBoots_A.label>
+  <Make_Anneli_Yorha_AnkleBoots_A.description>制作 (寄叶)2C_短靴_A.</Make_Anneli_Yorha_AnkleBoots_A.description>
+  <Make_Anneli_Yorha_AnkleBoots_A.jobString>制作中 (寄叶)2C_短靴_A.</Make_Anneli_Yorha_AnkleBoots_A.jobString>
 
-  <Make_Anneli_Yorha_AnkleBoots_B.label>make (Yorha)2C_AnkleBoots_B</Make_Anneli_Yorha_AnkleBoots_B.label>
-  <Make_Anneli_Yorha_AnkleBoots_B.description>Make (Yorha)2C_AnkleBoots_B.</Make_Anneli_Yorha_AnkleBoots_B.description>
-  <Make_Anneli_Yorha_AnkleBoots_B.jobString>Making (Yorha)2C_AnkleBoots_B.</Make_Anneli_Yorha_AnkleBoots_B.jobString>
+  <Make_Anneli_Yorha_AnkleBoots_B.label>制作 (寄叶)2C_短靴_B</Make_Anneli_Yorha_AnkleBoots_B.label>
+  <Make_Anneli_Yorha_AnkleBoots_B.description>制作 (寄叶)2C_短靴_B.</Make_Anneli_Yorha_AnkleBoots_B.description>
+  <Make_Anneli_Yorha_AnkleBoots_B.jobString>制作中 (寄叶)2C_短靴_B.</Make_Anneli_Yorha_AnkleBoots_B.jobString>
 
-  <Make_Anneli_Yorha_TacticalBoots.label>make (Yorha)2C_TacticalBoots</Make_Anneli_Yorha_TacticalBoots.label>
-  <Make_Anneli_Yorha_TacticalBoots.description>Make (Yorha)2C_TacticalBoots.</Make_Anneli_Yorha_TacticalBoots.description>
-  <Make_Anneli_Yorha_TacticalBoots.jobString>Making (Yorha)2C_TacticalBoots.</Make_Anneli_Yorha_TacticalBoots.jobString>
+  <Make_Anneli_Yorha_TacticalBoots.label>制作 (寄叶)2C_战术靴</Make_Anneli_Yorha_TacticalBoots.label>
+  <Make_Anneli_Yorha_TacticalBoots.description>制作 (寄叶)2C_战术靴.</Make_Anneli_Yorha_TacticalBoots.description>
+  <Make_Anneli_Yorha_TacticalBoots.jobString>制作中 (寄叶)2C_战术靴.</Make_Anneli_Yorha_TacticalBoots.jobString>
 
-  <Make_Anneli_Yorha_TallBoots_A.label>make (Yorha)2C_TallBoots_A</Make_Anneli_Yorha_TallBoots_A.label>
-  <Make_Anneli_Yorha_TallBoots_A.description>Make (Yorha)2C_TallBoots_A.</Make_Anneli_Yorha_TallBoots_A.description>
-  <Make_Anneli_Yorha_TallBoots_A.jobString>Making (Yorha)2C_TallBoots_A.</Make_Anneli_Yorha_TallBoots_A.jobString>
+  <Make_Anneli_Yorha_TallBoots_A.label>制作 (寄叶)2C_长靴_A</Make_Anneli_Yorha_TallBoots_A.label>
+  <Make_Anneli_Yorha_TallBoots_A.description>制作 (寄叶)2C_长靴_A.</Make_Anneli_Yorha_TallBoots_A.description>
+  <Make_Anneli_Yorha_TallBoots_A.jobString>制作中 (寄叶)2C_长靴_A.</Make_Anneli_Yorha_TallBoots_A.jobString>
 
-  <Make_Anneli_Yorha_TallBoots_B.label>make (Yorha)2C_TallBoots_B</Make_Anneli_Yorha_TallBoots_B.label>
-  <Make_Anneli_Yorha_TallBoots_B.description>Make (Yorha)2C_TallBoots_B.</Make_Anneli_Yorha_TallBoots_B.description>
-  <Make_Anneli_Yorha_TallBoots_B.jobString>Making (Yorha)2C_TallBoots_B.</Make_Anneli_Yorha_TallBoots_B.jobString>
+  <Make_Anneli_Yorha_TallBoots_B.label>制作 (寄叶)2C_长靴_B</Make_Anneli_Yorha_TallBoots_B.label>
+  <Make_Anneli_Yorha_TallBoots_B.description>制作 (寄叶)2C_长靴_B.</Make_Anneli_Yorha_TallBoots_B.description>
+  <Make_Anneli_Yorha_TallBoots_B.jobString>制作中 (寄叶)2C_长靴_B.</Make_Anneli_Yorha_TallBoots_B.jobString>
 
-  <Make_Anneli_Yorha_TallBoots_C.label>make (Yorha)2C_TallBoots_C</Make_Anneli_Yorha_TallBoots_C.label>
-  <Make_Anneli_Yorha_TallBoots_C.description>Make (Yorha)2C_TallBoots_C.</Make_Anneli_Yorha_TallBoots_C.description>
-  <Make_Anneli_Yorha_TallBoots_C.jobString>Making (Yorha)2C_TallBoots_C.</Make_Anneli_Yorha_TallBoots_C.jobString>
+  <Make_Anneli_Yorha_TallBoots_C.label>制作 (寄叶)2C_长靴_C</Make_Anneli_Yorha_TallBoots_C.label>
+  <Make_Anneli_Yorha_TallBoots_C.description>制作 (寄叶)2C_长靴_C.</Make_Anneli_Yorha_TallBoots_C.description>
+  <Make_Anneli_Yorha_TallBoots_C.jobString>制作中 (寄叶)2C_长靴_C.</Make_Anneli_Yorha_TallBoots_C.jobString>
 
-  <Make_Anneli_Yorha_HeavyBoots.label>make (Yorha)2C_HeavyBoots</Make_Anneli_Yorha_HeavyBoots.label>
-  <Make_Anneli_Yorha_HeavyBoots.description>Make (Yorha)2C_HeavyBoots.</Make_Anneli_Yorha_HeavyBoots.description>
-  <Make_Anneli_Yorha_HeavyBoots.jobString>Making (Yorha)2C_HeavyBoots.</Make_Anneli_Yorha_HeavyBoots.jobString>
+  <Make_Anneli_Yorha_HeavyBoots.label>制作 (寄叶)2C_重靴</Make_Anneli_Yorha_HeavyBoots.label>
+  <Make_Anneli_Yorha_HeavyBoots.description>制作 (寄叶)2C_重靴.</Make_Anneli_Yorha_HeavyBoots.description>
+  <Make_Anneli_Yorha_HeavyBoots.jobString>制作中 (寄叶)2C_重靴.</Make_Anneli_Yorha_HeavyBoots.jobString>
 
-  <Make_Anneli_Yorha_Cloak.label>make (Yorha)3_Cloak</Make_Anneli_Yorha_Cloak.label>
-  <Make_Anneli_Yorha_Cloak.description>Make (Yorha)3_Cloak.</Make_Anneli_Yorha_Cloak.description>
-  <Make_Anneli_Yorha_Cloak.jobString>Making (Yorha)3_Cloak.</Make_Anneli_Yorha_Cloak.jobString>
+  <Make_Anneli_Yorha_Cloak.label>制作 (寄叶)3_斗篷</Make_Anneli_Yorha_Cloak.label>
+  <Make_Anneli_Yorha_Cloak.description>制作 (寄叶)3_斗篷.</Make_Anneli_Yorha_Cloak.description>
+  <Make_Anneli_Yorha_Cloak.jobString>制作中 (寄叶)3_斗篷.</Make_Anneli_Yorha_Cloak.jobString>
 
-  <Make_Anneli_Yorha_Coat.label>make (Yorha)3_Coat</Make_Anneli_Yorha_Coat.label>
-  <Make_Anneli_Yorha_Coat.description>Make (Yorha)3_Coat.</Make_Anneli_Yorha_Coat.description>
-  <Make_Anneli_Yorha_Coat.jobString>Making (Yorha)3_Coat.</Make_Anneli_Yorha_Coat.jobString>
+  <Make_Anneli_Yorha_Coat.label>制作 (寄叶)3_外套</Make_Anneli_Yorha_Coat.label>
+  <Make_Anneli_Yorha_Coat.description>制作 (寄叶)3_外套.</Make_Anneli_Yorha_Coat.description>
+  <Make_Anneli_Yorha_Coat.jobString>制作中 (寄叶)3_外套.</Make_Anneli_Yorha_Coat.jobString>
 
-  <Make_Anneli_Yorha_Jacket.label>make (Yorha)3_Jacket</Make_Anneli_Yorha_Jacket.label>
-  <Make_Anneli_Yorha_Jacket.description>Make (Yorha)3_Jacket.</Make_Anneli_Yorha_Jacket.description>
-  <Make_Anneli_Yorha_Jacket.jobString>Making (Yorha)3_Jacket.</Make_Anneli_Yorha_Jacket.jobString>
+  <Make_Anneli_Yorha_Jacket.label>制作 (寄叶)3_夹克</Make_Anneli_Yorha_Jacket.label>
+  <Make_Anneli_Yorha_Jacket.description>制作 (寄叶)3_夹克.</Make_Anneli_Yorha_Jacket.description>
+  <Make_Anneli_Yorha_Jacket.jobString>制作中 (寄叶)3_夹克.</Make_Anneli_Yorha_Jacket.jobString>
 
-  <Make_Anneli_Yorha_Shawl.label>make (Yorha)3_Shawl</Make_Anneli_Yorha_Shawl.label>
-  <Make_Anneli_Yorha_Shawl.description>Make (Yorha)3_Shawl.</Make_Anneli_Yorha_Shawl.description>
-  <Make_Anneli_Yorha_Shawl.jobString>Making (Yorha)3_Shawl.</Make_Anneli_Yorha_Shawl.jobString>
+  <Make_Anneli_Yorha_Shawl.label>制作 (寄叶)3_披肩</Make_Anneli_Yorha_Shawl.label>
+  <Make_Anneli_Yorha_Shawl.description>制作 (寄叶)3_披肩.</Make_Anneli_Yorha_Shawl.description>
+  <Make_Anneli_Yorha_Shawl.jobString>制作中 (寄叶)3_披肩.</Make_Anneli_Yorha_Shawl.jobString>
 
-  <Make_Anneli_Yorha_ShortJacket.label>make (Yorha)3_ShortJacket</Make_Anneli_Yorha_ShortJacket.label>
-  <Make_Anneli_Yorha_ShortJacket.description>Make (Yorha)3_ShortJacket.</Make_Anneli_Yorha_ShortJacket.description>
-  <Make_Anneli_Yorha_ShortJacket.jobString>Making (Yorha)3_ShortJacket.</Make_Anneli_Yorha_ShortJacket.jobString>
+  <Make_Anneli_Yorha_ShortJacket.label>制作 (寄叶)3_短夹克</Make_Anneli_Yorha_ShortJacket.label>
+  <Make_Anneli_Yorha_ShortJacket.description>制作 (寄叶)3_短夹克.</Make_Anneli_Yorha_ShortJacket.description>
+  <Make_Anneli_Yorha_ShortJacket.jobString>制作中 (寄叶)3_短夹克.</Make_Anneli_Yorha_ShortJacket.jobString>
 
-  <Make_Anneli_Yorha_TrenchCoat.label>make (Yorha)3_TrenchCoat</Make_Anneli_Yorha_TrenchCoat.label>
-  <Make_Anneli_Yorha_TrenchCoat.description>Make (Yorha)3_TrenchCoat.</Make_Anneli_Yorha_TrenchCoat.description>
-  <Make_Anneli_Yorha_TrenchCoat.jobString>Making (Yorha)3_TrenchCoat.</Make_Anneli_Yorha_TrenchCoat.jobString>
+  <Make_Anneli_Yorha_TrenchCoat.label>制作 (寄叶)3_战壕大衣</Make_Anneli_Yorha_TrenchCoat.label>
+  <Make_Anneli_Yorha_TrenchCoat.description>制作 (寄叶)3_战壕大衣.</Make_Anneli_Yorha_TrenchCoat.description>
+  <Make_Anneli_Yorha_TrenchCoat.jobString>制作中 (寄叶)3_战壕大衣.</Make_Anneli_Yorha_TrenchCoat.jobString>
 
-  <Make_Anneli_Yorha_HeavyArmor.label>make (Yorha)34__HeavyArmor</Make_Anneli_Yorha_HeavyArmor.label>
-  <Make_Anneli_Yorha_HeavyArmor.description>Make (Yorha)34__HeavyArmor.</Make_Anneli_Yorha_HeavyArmor.description>
-  <Make_Anneli_Yorha_HeavyArmor.jobString>Making (Yorha)34__HeavyArmor.</Make_Anneli_Yorha_HeavyArmor.jobString>
+  <Make_Anneli_Yorha_HeavyArmor.label>制作 (寄叶)34_重甲</Make_Anneli_Yorha_HeavyArmor.label>
+  <Make_Anneli_Yorha_HeavyArmor.description>制作 (寄叶)34_重甲.</Make_Anneli_Yorha_HeavyArmor.description>
+  <Make_Anneli_Yorha_HeavyArmor.jobString>制作中 (寄叶)34_重甲.</Make_Anneli_Yorha_HeavyArmor.jobString>
 
-  <Make_Anneli_Yorha_ArmorPlate.label>make (Yorha)4_ArmorPlate</Make_Anneli_Yorha_ArmorPlate.label>
-  <Make_Anneli_Yorha_ArmorPlate.description>Make (Yorha)4_ArmorPlate.</Make_Anneli_Yorha_ArmorPlate.description>
-  <Make_Anneli_Yorha_ArmorPlate.jobString>Making (Yorha)4_ArmorPlate.</Make_Anneli_Yorha_ArmorPlate.jobString>
+  <Make_Anneli_Yorha_ArmorPlate.label>制作 (寄叶)4_装甲板</Make_Anneli_Yorha_ArmorPlate.label>
+  <Make_Anneli_Yorha_ArmorPlate.description>制作 (寄叶)4_装甲板.</Make_Anneli_Yorha_ArmorPlate.description>
+  <Make_Anneli_Yorha_ArmorPlate.jobString>制作中 (寄叶)4_装甲板.</Make_Anneli_Yorha_ArmorPlate.jobString>
 
-  <Make_Anneli_Yorha_Arms.label>make (Yorha)5_Yorha_Arms</Make_Anneli_Yorha_Arms.label>
-  <Make_Anneli_Yorha_Arms.description>Make (Yorha)5_Yorha_Arms.</Make_Anneli_Yorha_Arms.description>
-  <Make_Anneli_Yorha_Arms.jobString>Making (Yorha)5_Yorha_Arms.</Make_Anneli_Yorha_Arms.jobString>
+  <Make_Anneli_Yorha_Arms.label>制作 (寄叶)5_寄叶_武装</Make_Anneli_Yorha_Arms.label>
+  <Make_Anneli_Yorha_Arms.description>制作 (寄叶)5_寄叶_武装.</Make_Anneli_Yorha_Arms.description>
+  <Make_Anneli_Yorha_Arms.jobString>制作中 (寄叶)5_寄叶_武装.</Make_Anneli_Yorha_Arms.jobString>
 
-  <Make_Anneli_Yorha_Beret.label>make (Yorha)6A_Beret</Make_Anneli_Yorha_Beret.label>
-  <Make_Anneli_Yorha_Beret.description>Make (Yorha)6A_Beret.</Make_Anneli_Yorha_Beret.description>
-  <Make_Anneli_Yorha_Beret.jobString>Making (Yorha)6A_Beret.</Make_Anneli_Yorha_Beret.jobString>
+  <Make_Anneli_Yorha_Beret.label>制作 (寄叶)6A_贝雷帽</Make_Anneli_Yorha_Beret.label>
+  <Make_Anneli_Yorha_Beret.description>制作 (寄叶)6A_贝雷帽.</Make_Anneli_Yorha_Beret.description>
+  <Make_Anneli_Yorha_Beret.jobString>制作中 (寄叶)6A_贝雷帽.</Make_Anneli_Yorha_Beret.jobString>
 
-  <Make_Anneli_Yorha_DerbyHat.label>make (Yorha)6A_DerbyHat</Make_Anneli_Yorha_DerbyHat.label>
-  <Make_Anneli_Yorha_DerbyHat.description>Make (Yorha)6A_DerbyHat.</Make_Anneli_Yorha_DerbyHat.description>
-  <Make_Anneli_Yorha_DerbyHat.jobString>Making (Yorha)6A_DerbyHat.</Make_Anneli_Yorha_DerbyHat.jobString>
+  <Make_Anneli_Yorha_DerbyHat.label>制作 (寄叶)6A_圆顶礼帽</Make_Anneli_Yorha_DerbyHat.label>
+  <Make_Anneli_Yorha_DerbyHat.description>制作 (寄叶)6A_圆顶礼帽.</Make_Anneli_Yorha_DerbyHat.description>
+  <Make_Anneli_Yorha_DerbyHat.jobString>制作中 (寄叶)6A_圆顶礼帽.</Make_Anneli_Yorha_DerbyHat.jobString>
 
-  <Make_Anneli_Yorha_Headband.label>make (Yorha)6A_Headband</Make_Anneli_Yorha_Headband.label>
-  <Make_Anneli_Yorha_Headband.description>Make (Yorha)6A_Headband.</Make_Anneli_Yorha_Headband.description>
-  <Make_Anneli_Yorha_Headband.jobString>Making (Yorha)6A_Headband.</Make_Anneli_Yorha_Headband.jobString>
+  <Make_Anneli_Yorha_Headband.label>制作 (寄叶)6A_头带</Make_Anneli_Yorha_Headband.label>
+  <Make_Anneli_Yorha_Headband.description>制作 (寄叶)6A_头带.</Make_Anneli_Yorha_Headband.description>
+  <Make_Anneli_Yorha_Headband.jobString>制作中 (寄叶)6A_头带.</Make_Anneli_Yorha_Headband.jobString>
 
-  <Make_Anneli_Yorha_HealerHeadFlower.label>make (Yorha)6A_HealerHeadFlower</Make_Anneli_Yorha_HealerHeadFlower.label>
-  <Make_Anneli_Yorha_HealerHeadFlower.description>Make (Yorha)6A_HealerHeadFlower.</Make_Anneli_Yorha_HealerHeadFlower.description>
-  <Make_Anneli_Yorha_HealerHeadFlower.jobString>Making (Yorha)6A_HealerHeadFlower.</Make_Anneli_Yorha_HealerHeadFlower.jobString>
+  <Make_Anneli_Yorha_HealerHeadFlower.label>制作 (寄叶)6A_医疗兵头花</Make_Anneli_Yorha_HealerHeadFlower.label>
+  <Make_Anneli_Yorha_HealerHeadFlower.description>制作 (寄叶)6A_医疗兵头花.</Make_Anneli_Yorha_HealerHeadFlower.description>
+  <Make_Anneli_Yorha_HealerHeadFlower.jobString>制作中 (寄叶)6A_医疗兵头花.</Make_Anneli_Yorha_HealerHeadFlower.jobString>
 
-  <Make_Anneli_Yorha_Hood.label>make (Yorha)6A_Hood</Make_Anneli_Yorha_Hood.label>
-  <Make_Anneli_Yorha_Hood.description>Make (Yorha)6A_Hood.</Make_Anneli_Yorha_Hood.description>
-  <Make_Anneli_Yorha_Hood.jobString>Making (Yorha)6A_Hood.</Make_Anneli_Yorha_Hood.jobString>
+  <Make_Anneli_Yorha_Hood.label>制作 (寄叶)6A_兜帽</Make_Anneli_Yorha_Hood.label>
+  <Make_Anneli_Yorha_Hood.description>制作 (寄叶)6A_兜帽.</Make_Anneli_Yorha_Hood.description>
+  <Make_Anneli_Yorha_Hood.jobString>制作中 (寄叶)6A_兜帽.</Make_Anneli_Yorha_Hood.jobString>
 
-  <Make_Anneli_Yorha_PeakedCap_A.label>make (Yorha)6A_PeakedCap_A</Make_Anneli_Yorha_PeakedCap_A.label>
-  <Make_Anneli_Yorha_PeakedCap_A.description>Make (Yorha)6A_PeakedCap_A.</Make_Anneli_Yorha_PeakedCap_A.description>
-  <Make_Anneli_Yorha_PeakedCap_A.jobString>Making (Yorha)6A_PeakedCap_A.</Make_Anneli_Yorha_PeakedCap_A.jobString>
+  <Make_Anneli_Yorha_PeakedCap_A.label>制作 (寄叶)6A_大檐帽_A</Make_Anneli_Yorha_PeakedCap_A.label>
+  <Make_Anneli_Yorha_PeakedCap_A.description>制作 (寄叶)6A_大檐帽_A.</Make_Anneli_Yorha_PeakedCap_A.description>
+  <Make_Anneli_Yorha_PeakedCap_A.jobString>制作中 (寄叶)6A_大檐帽_A.</Make_Anneli_Yorha_PeakedCap_A.jobString>
 
-  <Make_Anneli_Yorha_PeakedCap_B.label>make (Yorha)6A_PeakedCap_B</Make_Anneli_Yorha_PeakedCap_B.label>
-  <Make_Anneli_Yorha_PeakedCap_B.description>Make (Yorha)6A_PeakedCap_B.</Make_Anneli_Yorha_PeakedCap_B.description>
-  <Make_Anneli_Yorha_PeakedCap_B.jobString>Making (Yorha)6A_PeakedCap_B.</Make_Anneli_Yorha_PeakedCap_B.jobString>
+  <Make_Anneli_Yorha_PeakedCap_B.label>制作 (寄叶)6A_大檐帽_B</Make_Anneli_Yorha_PeakedCap_B.label>
+  <Make_Anneli_Yorha_PeakedCap_B.description>制作 (寄叶)6A_大檐帽_B.</Make_Anneli_Yorha_PeakedCap_B.description>
+  <Make_Anneli_Yorha_PeakedCap_B.jobString>制作中 (寄叶)6A_大檐帽_B.</Make_Anneli_Yorha_PeakedCap_B.jobString>
 
-  <Make_Anneli_Yorha_SideCap.label>make (Yorha)6A_SideCap</Make_Anneli_Yorha_SideCap.label>
-  <Make_Anneli_Yorha_SideCap.description>Make (Yorha)6A_SideCap.</Make_Anneli_Yorha_SideCap.description>
-  <Make_Anneli_Yorha_SideCap.jobString>Making (Yorha)6A_SideCap.</Make_Anneli_Yorha_SideCap.jobString>
+  <Make_Anneli_Yorha_SideCap.label>制作 (寄叶)6A_船形帽</Make_Anneli_Yorha_SideCap.label>
+  <Make_Anneli_Yorha_SideCap.description>制作 (寄叶)6A_船形帽.</Make_Anneli_Yorha_SideCap.description>
+  <Make_Anneli_Yorha_SideCap.jobString>制作中 (寄叶)6A_船形帽.</Make_Anneli_Yorha_SideCap.jobString>
 
-  <Make_Anneli_Yorha_Headwear.label>make (Yorha)6A_Headwear</Make_Anneli_Yorha_Headwear.label>
-  <Make_Anneli_Yorha_Headwear.description>Make (Yorha)6A_Headwear.</Make_Anneli_Yorha_Headwear.description>
-  <Make_Anneli_Yorha_Headwear.jobString>Making (Yorha)6A_Headwear.</Make_Anneli_Yorha_Headwear.jobString>
+  <Make_Anneli_Yorha_Headwear.label>制作 (寄叶)6A_头饰</Make_Anneli_Yorha_Headwear.label>
+  <Make_Anneli_Yorha_Headwear.description>制作 (寄叶)6A_头饰.</Make_Anneli_Yorha_Headwear.description>
+  <Make_Anneli_Yorha_Headwear.jobString>制作中 (寄叶)6A_头饰.</Make_Anneli_Yorha_Headwear.jobString>
 
-  <Make_Anneli_Yorha_HeavyHelmet.label>make (Yorha)6ABC_HeavyHelmet</Make_Anneli_Yorha_HeavyHelmet.label>
-  <Make_Anneli_Yorha_HeavyHelmet.description>Make (Yorha)6ABC_HeavyHelmet.</Make_Anneli_Yorha_HeavyHelmet.description>
-  <Make_Anneli_Yorha_HeavyHelmet.jobString>Making (Yorha)6ABC_HeavyHelmet.</Make_Anneli_Yorha_HeavyHelmet.jobString>
+  <Make_Anneli_Yorha_HeavyHelmet.label>制作 (寄叶)6ABC_重盔</Make_Anneli_Yorha_HeavyHelmet.label>
+  <Make_Anneli_Yorha_HeavyHelmet.description>制作 (寄叶)6ABC_重盔.</Make_Anneli_Yorha_HeavyHelmet.description>
+  <Make_Anneli_Yorha_HeavyHelmet.jobString>制作中 (寄叶)6ABC_重盔.</Make_Anneli_Yorha_HeavyHelmet.jobString>
 
-  <Make_Anneli_Yorha_Blindfold_A.label>make (Yorha)6B_Blindfold_A</Make_Anneli_Yorha_Blindfold_A.label>
-  <Make_Anneli_Yorha_Blindfold_A.description>Make (Yorha)6B_Blindfold_A.</Make_Anneli_Yorha_Blindfold_A.description>
-  <Make_Anneli_Yorha_Blindfold_A.jobString>Making (Yorha)6B_Blindfold_A.</Make_Anneli_Yorha_Blindfold_A.jobString>
+  <Make_Anneli_Yorha_Blindfold_A.label>制作 (寄叶)6B_眼罩_A</Make_Anneli_Yorha_Blindfold_A.label>
+  <Make_Anneli_Yorha_Blindfold_A.description>制作 (寄叶)6B_眼罩_A.</Make_Anneli_Yorha_Blindfold_A.description>
+  <Make_Anneli_Yorha_Blindfold_A.jobString>制作中 (寄叶)6B_眼罩_A.</Make_Anneli_Yorha_Blindfold_A.jobString>
 
-  <Make_Anneli_Yorha_Blindfold_B.label>make (Yorha)6B_Blindfold_B</Make_Anneli_Yorha_Blindfold_B.label>
-  <Make_Anneli_Yorha_Blindfold_B.description>Make (Yorha)6B_Blindfold_B.</Make_Anneli_Yorha_Blindfold_B.description>
-  <Make_Anneli_Yorha_Blindfold_B.jobString>Making (Yorha)6B_Blindfold_B.</Make_Anneli_Yorha_Blindfold_B.jobString>
+  <Make_Anneli_Yorha_Blindfold_B.label>制作 (寄叶)6B_眼罩_B</Make_Anneli_Yorha_Blindfold_B.label>
+  <Make_Anneli_Yorha_Blindfold_B.description>制作 (寄叶)6B_眼罩_B.</Make_Anneli_Yorha_Blindfold_B.description>
+  <Make_Anneli_Yorha_Blindfold_B.jobString>制作中 (寄叶)6B_眼罩_B.</Make_Anneli_Yorha_Blindfold_B.jobString>
 
-  <Make_Anneli_Yorha_Glasses.label>make (Yorha)6B_Glasses</Make_Anneli_Yorha_Glasses.label>
-  <Make_Anneli_Yorha_Glasses.description>Make (Yorha)6B_Glasses.</Make_Anneli_Yorha_Glasses.description>
-  <Make_Anneli_Yorha_Glasses.jobString>Making (Yorha)6B_Glasses.</Make_Anneli_Yorha_Glasses.jobString>
+  <Make_Anneli_Yorha_Glasses.label>制作 (寄叶)6B_眼镜</Make_Anneli_Yorha_Glasses.label>
+  <Make_Anneli_Yorha_Glasses.description>制作 (寄叶)6B_眼镜.</Make_Anneli_Yorha_Glasses.description>
+  <Make_Anneli_Yorha_Glasses.jobString>制作中 (寄叶)6B_眼镜.</Make_Anneli_Yorha_Glasses.jobString>
 
-  <Make_Anneli_Yorha_Veil.label>make (Yorha)6BC_Veil</Make_Anneli_Yorha_Veil.label>
-  <Make_Anneli_Yorha_Veil.description>Make (Yorha)6BC_Veil.</Make_Anneli_Yorha_Veil.description>
-  <Make_Anneli_Yorha_Veil.jobString>Making (Yorha)6BC_Veil.</Make_Anneli_Yorha_Veil.jobString>
+  <Make_Anneli_Yorha_Veil.label>制作 (寄叶)6BC_面纱</Make_Anneli_Yorha_Veil.label>
+  <Make_Anneli_Yorha_Veil.description>制作 (寄叶)6BC_面纱.</Make_Anneli_Yorha_Veil.description>
+  <Make_Anneli_Yorha_Veil.jobString>制作中 (寄叶)6BC_面纱.</Make_Anneli_Yorha_Veil.jobString>
 
-  <Make_Anneli_Yorha_Mask_A.label>make (Yorha)6C_Mask_A</Make_Anneli_Yorha_Mask_A.label>
-  <Make_Anneli_Yorha_Mask_A.description>Make (Yorha)6C_Mask_A.</Make_Anneli_Yorha_Mask_A.description>
-  <Make_Anneli_Yorha_Mask_A.jobString>Making (Yorha)6C_Mask_A.</Make_Anneli_Yorha_Mask_A.jobString>
+  <Make_Anneli_Yorha_Mask_A.label>制作 (寄叶)6C_口罩_A</Make_Anneli_Yorha_Mask_A.label>
+  <Make_Anneli_Yorha_Mask_A.description>制作 (寄叶)6C_口罩_A.</Make_Anneli_Yorha_Mask_A.description>
+  <Make_Anneli_Yorha_Mask_A.jobString>制作中 (寄叶)6C_口罩_A.</Make_Anneli_Yorha_Mask_A.jobString>
 
-  <Make_Anneli_Yorha_Mask_B.label>make (Yorha)6C_Mask_B</Make_Anneli_Yorha_Mask_B.label>
-  <Make_Anneli_Yorha_Mask_B.description>Make (Yorha)6C_Mask_B.</Make_Anneli_Yorha_Mask_B.description>
-  <Make_Anneli_Yorha_Mask_B.jobString>Making (Yorha)6C_Mask_B.</Make_Anneli_Yorha_Mask_B.jobString>
+  <Make_Anneli_Yorha_Mask_B.label>制作 (寄叶)6C_口罩_B</Make_Anneli_Yorha_Mask_B.label>
+  <Make_Anneli_Yorha_Mask_B.description>制作 (寄叶)6C_口罩_B.</Make_Anneli_Yorha_Mask_B.description>
+  <Make_Anneli_Yorha_Mask_B.jobString>制作中 (寄叶)6C_口罩_B.</Make_Anneli_Yorha_Mask_B.jobString>
 
-  <Make_Anneli_Yorha_Bag.label>make (Yorha)7_Bag</Make_Anneli_Yorha_Bag.label>
-  <Make_Anneli_Yorha_Bag.description>Make (Yorha)7_Bag.</Make_Anneli_Yorha_Bag.description>
-  <Make_Anneli_Yorha_Bag.jobString>Making (Yorha)7_Bag.</Make_Anneli_Yorha_Bag.jobString>
+  <Make_Anneli_Yorha_Bag.label>制作 (寄叶)7_背包</Make_Anneli_Yorha_Bag.label>
+  <Make_Anneli_Yorha_Bag.description>制作 (寄叶)7_背包.</Make_Anneli_Yorha_Bag.description>
+  <Make_Anneli_Yorha_Bag.jobString>制作中 (寄叶)7_背包.</Make_Anneli_Yorha_Bag.jobString>
 
-  <Make_Anneli_Yorha_POD_A.label>make (Yorha)8_POD_White</Make_Anneli_Yorha_POD_A.label>
-  <Make_Anneli_Yorha_POD_A.description>Make (Yorha)8_POD_White.</Make_Anneli_Yorha_POD_A.description>
-  <Make_Anneli_Yorha_POD_A.jobString>Making (Yorha)8_POD_White.</Make_Anneli_Yorha_POD_A.jobString>
+  <Make_Anneli_Yorha_POD_A.label>制作 (寄叶)8_POD_白</Make_Anneli_Yorha_POD_A.label>
+  <Make_Anneli_Yorha_POD_A.description>制作 (寄叶)8_POD_白.</Make_Anneli_Yorha_POD_A.description>
+  <Make_Anneli_Yorha_POD_A.jobString>制作中 (寄叶)8_POD_白.</Make_Anneli_Yorha_POD_A.jobString>
 
-  <Make_Anneli_Yorha_POD_B.label>make (Yorha)8_POD_Black</Make_Anneli_Yorha_POD_B.label>
-  <Make_Anneli_Yorha_POD_B.description>Make (Yorha)8_POD_Black.</Make_Anneli_Yorha_POD_B.description>
-  <Make_Anneli_Yorha_POD_B.jobString>Making (Yorha)8_POD_Black.</Make_Anneli_Yorha_POD_B.jobString>
+  <Make_Anneli_Yorha_POD_B.label>制作 (寄叶)8_POD_黑</Make_Anneli_Yorha_POD_B.label>
+  <Make_Anneli_Yorha_POD_B.description>制作 (寄叶)8_POD_黑.</Make_Anneli_Yorha_POD_B.description>
+  <Make_Anneli_Yorha_POD_B.jobString>制作中 (寄叶)8_POD_黑.</Make_Anneli_Yorha_POD_B.jobString>
 
 
 </LanguageData>

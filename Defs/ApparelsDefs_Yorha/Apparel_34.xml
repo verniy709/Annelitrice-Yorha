@@ -41,7 +41,7 @@
 	<ThingDef ParentName="Anneli_Yorha_34">
 		<defName>Anneli_Yorha_HeavyArmor</defName>
 		<description>(Yorha)34_HeavyArmor</description>
-		<label>(Yorha)34__HeavyArmor</label>
+		<label>(Yorha)34_HeavyArmor</label>
 		<graphicData>
 			<texPath>34/Anneli_Yorha_HeavyArmor</texPath>
 			<graphicClass>Graphic_Single</graphicClass>

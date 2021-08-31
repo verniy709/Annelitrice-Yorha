@@ -3,16 +3,16 @@
 
   <!-- Anneli_Yorha_POD_A -->
 
-  <Anneli_Yorha_POD_A.label>(Yorha)8_POD_White</Anneli_Yorha_POD_A.label>
-  <Anneli_Yorha_POD_A.description>(Yorha)8_POD_White</Anneli_Yorha_POD_A.description>
-  <Anneli_Yorha_POD_A.verbs.0.label>launch laser</Anneli_Yorha_POD_A.verbs.0.label>
+  <Anneli_Yorha_POD_A.label>(寄叶)8_POD_白</Anneli_Yorha_POD_A.label>
+  <Anneli_Yorha_POD_A.description>(寄叶)8_POD_白</Anneli_Yorha_POD_A.description>
+  <Anneli_Yorha_POD_A.verbs.0.label>发射激光</Anneli_Yorha_POD_A.verbs.0.label>
 
 
   <!-- Anneli_Yorha_POD_B -->
 
-  <Anneli_Yorha_POD_B.label>(Yorha)8_POD_Black</Anneli_Yorha_POD_B.label>
-  <Anneli_Yorha_POD_B.description>(Yorha)8_POD_Black</Anneli_Yorha_POD_B.description>
-  <Anneli_Yorha_POD_B.verbs.0.label>launch laser</Anneli_Yorha_POD_B.verbs.0.label>
+  <Anneli_Yorha_POD_B.label>(寄叶)8_POD_黑</Anneli_Yorha_POD_B.label>
+  <Anneli_Yorha_POD_B.description>(寄叶)8_POD_黑</Anneli_Yorha_POD_B.description>
+  <Anneli_Yorha_POD_B.verbs.0.label>发射激光</Anneli_Yorha_POD_B.verbs.0.label>
 
 
 </LanguageData>
