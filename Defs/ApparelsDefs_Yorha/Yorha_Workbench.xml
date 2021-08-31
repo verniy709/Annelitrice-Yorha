@@ -3,7 +3,7 @@
   <ThingDef ParentName="BenchBase">
     <defName>Anneli_Yorha_Workbench</defName>
     <label>Anneli Yorha Workbench</label>
-    <description>Anneli_Yorha_Bench.</description>
+    <description>A high-tech device that teleports raw materials to a secret factory plant for further processing. Surprisingly no external power supply is needed.</description>
     <thingClass>Building_WorkTable</thingClass>
     <graphicData>
       <texPath>Anneli_Yorha_Workbench</texPath>
