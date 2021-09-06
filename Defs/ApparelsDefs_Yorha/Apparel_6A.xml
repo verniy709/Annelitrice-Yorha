@@ -18,7 +18,7 @@
 		</statBases>
 		<equippedStatOffsets>
 			<MentalBreakThreshold>-0.075</MentalBreakThreshold>
-			<Beauty>0.5</Beauty>
+			<Beauty>1.0</Beauty>
 		</equippedStatOffsets>
 		<apparel>
 			<useWornGraphicMask>false</useWornGraphicMask>

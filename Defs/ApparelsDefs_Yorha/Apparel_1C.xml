@@ -21,7 +21,7 @@
 		</equippedStatOffsets>
 		<apparel>
 			<bodyPartGroups>
-				<li>Feet</li><!--This is stupid, but necessary.-->
+				<li>Feet</li>
 			</bodyPartGroups>
 			<layers>
 				<li>Anneli_OnSkin</li>
