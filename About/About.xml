@@ -13,6 +13,7 @@
 	<li>
 		<packageId>Verniy709.Annelitrice2.0</packageId>
 		<displayName>Annelitrice 2.0</displayName>
+		<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2622298601</steamWorkshopUrl>
 	</li>
 </modDependencies>
 <loadAfter>
