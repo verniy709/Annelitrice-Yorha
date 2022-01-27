@@ -41,6 +41,8 @@
 		<altitudeLayer>Item</altitudeLayer>
 		<alwaysHaulable>True</alwaysHaulable>
 		<tickerType>Never</tickerType>
+		<burnableByRecipe>true</burnableByRecipe>
+		<smeltable>true</smeltable>
 		<apparel>
 			<useWornGraphicMask>false</useWornGraphicMask>
       		<canBeGeneratedToSatisfyWarmth>false</canBeGeneratedToSatisfyWarmth>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<!--  Annelitrice 2.0 -->
+    <Operation Class="PatchOperationFindMod">
+      <mods><li>Annelitrice 2.0</li></mods>
+      <match Class="PatchOperationAdd">
+        <success>Always</success>
+        <xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Annelitrice"]/alienRace/raceRestriction/apparelList</xpath>        
+        <value>
+           <li>Anneli_Yorha_Leotard_A</li>
+           <li>Anneli_Yorha_Leotard_B</li>
+           <li>Anneli_Yorha_Tight_A</li>
+           <li>Anneli_Yorha_Tight_B</li>
+           <li>Anneli_Yorha_Zentai_A</li>
+           <li>Anneli_Yorha_Zentai_B</li>
+           <li>Anneli_Yorha_Socks</li>
+           <li>Anneli_Yorha_Stockings_A</li>
+           <li>Anneli_Yorha_Stockings_B</li>
+           <li>Anneli_Yorha_Stockings_C</li>
+           <li>Anneli_Yorha_Corset</li>
+           <li>Anneli_Yorha_HealerPeplum</li>
+           <li>Anneli_Yorha_RebelRags</li>
+           <li>Anneli_Yorha_Tuxedo</li>
+           <li>Anneli_Yorha_LeatherArmor_A</li>
+           <li>Anneli_Yorha_LeatherArmor_B</li>
+           <li>Anneli_Yorha_LongDress_A</li>
+           <li>Anneli_Yorha_LongDress_B</li>
+           <li>Anneli_Yorha_LongDress_C</li>
+           <li>Anneli_Yorha_HealerPants</li>
+           <li>Anneli_Yorha_Pants</li>
+           <li>Anneli_Yorha_Shorts</li>
+           <li>Anneli_Yorha_Skirt</li>
+           <li>Anneli_Yorha_TightSkirt</li>
+           <li>Anneli_Yorha_AnkleBoots_A</li>
+           <li>Anneli_Yorha_AnkleBoots_B</li>
+           <li>Anneli_Yorha_TacticalBoots</li>
+           <li>Anneli_Yorha_TallBoots_A</li>
+           <li>Anneli_Yorha_TallBoots_B</li>
+           <li>Anneli_Yorha_TallBoots_C</li>
+           <li>Anneli_Yorha_HeavyBoots</li>
+           <li>Anneli_Yorha_Cloak</li>
+           <li>Anneli_Yorha_Coat</li>
+           <li>Anneli_Yorha_Jacket</li>
+           <li>Anneli_Yorha_Shawl</li>
+           <li>Anneli_Yorha_ShortJacket</li>
+           <li>Anneli_Yorha_TrenchCoat</li>
+           <li>Anneli_Yorha_ArmorPlate</li>
+           <li>Anneli_Yorha_HeavyArmor</li>
+           <li>Anneli_Yorha_Arms</li>
+           <li>Anneli_Yorha_Beret</li>
+           <li>Anneli_Yorha_DerbyHat</li>
+           <li>Anneli_Yorha_Headband</li>
+           <li>Anneli_Yorha_HealerHeadFlower</li>
+           <li>Anneli_Yorha_Hood</li>
+           <li>Anneli_Yorha_PeakedCap_A</li>
+           <li>Anneli_Yorha_PeakedCap_B</li>
+           <li>Anneli_Yorha_SideCap</li>
+           <li>Anneli_Yorha_Headwear</li>
+           <li>Anneli_Yorha_HeavyHelmet</li>
+           <li>Anneli_Yorha_Blindfold_A</li>
+           <li>Anneli_Yorha_Blindfold_B</li>
+           <li>Anneli_Yorha_Glasses</li>
+           <li>Anneli_Yorha_Veil</li>
+           <li>Anneli_Yorha_Mask_A</li>
+           <li>Anneli_Yorha_Mask_B</li>
+           <li>Anneli_Yorha_Bag</li>
+           <li>Anneli_Yorha_POD_A</li>
+           <li>Anneli_Yorha_POD_B</li>
+        </value>
+      </match>
+    </Operation>
+
+</Patch>
