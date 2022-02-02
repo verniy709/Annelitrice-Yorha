@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Yorha_7A" ParentName="Anneli_Gakuen_ApparelCommonBase"  Abstract="True">
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<apparel>
+			<bodyPartGroups>
+				<li>Torso</li>
+			</bodyPartGroups>
+			<layers>
+				<li>Anneli_Weapon</li>
+			</layers>
+			<tags>
+				<li>Anneli_Yorha</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+
+<!--Anneli_Yorha_Arms-->
+	<ThingDef ParentName="Anneli_Yorha_7A">
+		<defName>Anneli_Yorha_Arms</defName>
+		<description>(Yorha)7A_Yorha_Arms</description>
+		<label>(Yorha)7A_Yorha_Arms</label>
+		<costStuffCount>100</costStuffCount>
+		<statBases>
+			<WorkToMake>18000</WorkToMake>
+			<Mass>4</Mass>
+			<StuffEffectMultiplierArmor>0.05</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.05</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
+			<EquipDelay>4</EquipDelay>
+			<Flammability>0.15</Flammability>
+		</statBases>
+		<equippedStatOffsets>
+			<MeleeHitChance>0.5</MeleeHitChance>
+			<MeleeDodgeChance>0.5</MeleeDodgeChance>
+		</equippedStatOffsets>
+		<graphicData>
+			<texPath>7A/Anneli_Yorha_Arms</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>7A/Anneli_Yorha_Arms</wornGraphicPath>
+			<wornGraphicData>
+        		<renderUtilityAsPack>true</renderUtilityAsPack>
+      		</wornGraphicData>
+			<tags>
+				<li>Anneli_Yorha_Heavy</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+			
+</Defs>

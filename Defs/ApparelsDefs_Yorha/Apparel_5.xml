@@ -2,23 +2,9 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Yorha_5" ParentName="Anneli_Yorha_ApparelCommonBase"  Abstract="True">
-		<costStuffCount>100</costStuffCount>
 		<stuffCategories>
 			<li>Metallic</li>
 		</stuffCategories>
-		<statBases>
-			<WorkToMake>18000</WorkToMake>
-			<Mass>4</Mass>
-			<StuffEffectMultiplierArmor>0.05</StuffEffectMultiplierArmor>
-			<StuffEffectMultiplierInsulation_Cold>0.05</StuffEffectMultiplierInsulation_Cold>
-			<StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
-			<EquipDelay>4</EquipDelay>
-			<Flammability>0.15</Flammability>
-		</statBases>
-		<equippedStatOffsets>
-			<MeleeHitChance>0.5</MeleeHitChance>
-			<MeleeDodgeChance>0.5</MeleeDodgeChance>
-		</equippedStatOffsets>
 		<apparel>
 			<bodyPartGroups>
 				<li>Shoulders</li>
@@ -32,24 +18,6 @@
 		</apparel>
 	</ThingDef>
 
-<!--Anneli_Yorha_Arms-->
-	<ThingDef ParentName="Anneli_Yorha_5">
-		<defName>Anneli_Yorha_Arms</defName>
-		<description>(Yorha)5_Yorha_Arms</description>
-		<label>(Yorha)5_Yorha_Arms</label>
-		<graphicData>
-			<texPath>5/Anneli_Yorha_Arms</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<apparel>
-			<wornGraphicPath>5/Anneli_Yorha_Arms</wornGraphicPath>
-			<wornGraphicData>
-        		<renderUtilityAsPack>true</renderUtilityAsPack>
-      		</wornGraphicData>
-			<tags>
-				<li>Anneli_Yorha_Heavy</li>
-			</tags>
-		</apparel>
-	</ThingDef>
+
 			
 </Defs>
