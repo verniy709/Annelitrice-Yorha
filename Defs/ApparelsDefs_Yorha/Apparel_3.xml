@@ -2,7 +2,7 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Yorha_3" ParentName="Anneli_Yorha_ApparelCommonBase"  Abstract="True">
-		<costStuffCount>80</costStuffCount>
+		<costStuffCount>60</costStuffCount>
 		<stuffCategories>
 			<li>Leathery</li>
 			<li>Fabric</li>

@@ -17,7 +17,8 @@
 			<Flammability>0.15</Flammability>
 		</statBases>
 		<equippedStatOffsets>
-			<ComfyTemperatureMin>-6</ComfyTemperatureMin> 
+			<WorkSpeedGlobal>0.15</WorkSpeedGlobal>
+			<ComfyTemperatureMin>-30</ComfyTemperatureMin> 
 		</equippedStatOffsets>
 		<apparel>
 			<!-- <shellCoversHead>false</shellCoversHead> -->
