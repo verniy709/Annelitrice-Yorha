@@ -162,10 +162,6 @@
   <Make_Anneli_Yorha_ArmorPlate.description>制作 (寄叶)4_装甲板.</Make_Anneli_Yorha_ArmorPlate.description>
   <Make_Anneli_Yorha_ArmorPlate.jobString>制作中 (寄叶)4_装甲板.</Make_Anneli_Yorha_ArmorPlate.jobString>
 
-  <Make_Anneli_Yorha_Arms.label>制作 (寄叶)5_寄叶_武装</Make_Anneli_Yorha_Arms.label>
-  <Make_Anneli_Yorha_Arms.description>制作 (寄叶)5_寄叶_武装.</Make_Anneli_Yorha_Arms.description>
-  <Make_Anneli_Yorha_Arms.jobString>制作中 (寄叶)5_寄叶_武装.</Make_Anneli_Yorha_Arms.jobString>
-
   <Make_Anneli_Yorha_Beret.label>制作 (寄叶)6A_贝雷帽</Make_Anneli_Yorha_Beret.label>
   <Make_Anneli_Yorha_Beret.description>制作 (寄叶)6A_贝雷帽.</Make_Anneli_Yorha_Beret.description>
   <Make_Anneli_Yorha_Beret.jobString>制作中 (寄叶)6A_贝雷帽.</Make_Anneli_Yorha_Beret.jobString>
@@ -218,10 +214,6 @@
   <Make_Anneli_Yorha_Glasses.description>制作 (寄叶)6B_眼镜.</Make_Anneli_Yorha_Glasses.description>
   <Make_Anneli_Yorha_Glasses.jobString>制作中 (寄叶)6B_眼镜.</Make_Anneli_Yorha_Glasses.jobString>
 
-  <Make_Anneli_Yorha_Veil.label>制作 (寄叶)6BC_面纱</Make_Anneli_Yorha_Veil.label>
-  <Make_Anneli_Yorha_Veil.description>制作 (寄叶)6BC_面纱.</Make_Anneli_Yorha_Veil.description>
-  <Make_Anneli_Yorha_Veil.jobString>制作中 (寄叶)6BC_面纱.</Make_Anneli_Yorha_Veil.jobString>
-
   <Make_Anneli_Yorha_Mask_A.label>制作 (寄叶)6C_口罩_A</Make_Anneli_Yorha_Mask_A.label>
   <Make_Anneli_Yorha_Mask_A.description>制作 (寄叶)6C_口罩_A.</Make_Anneli_Yorha_Mask_A.description>
   <Make_Anneli_Yorha_Mask_A.jobString>制作中 (寄叶)6C_口罩_A.</Make_Anneli_Yorha_Mask_A.jobString>
@@ -230,17 +222,31 @@
   <Make_Anneli_Yorha_Mask_B.description>制作 (寄叶)6C_口罩_B.</Make_Anneli_Yorha_Mask_B.description>
   <Make_Anneli_Yorha_Mask_B.jobString>制作中 (寄叶)6C_口罩_B.</Make_Anneli_Yorha_Mask_B.jobString>
 
-  <Make_Anneli_Yorha_Bag.label>制作 (寄叶)7_背包</Make_Anneli_Yorha_Bag.label>
-  <Make_Anneli_Yorha_Bag.description>制作 (寄叶)7_背包.</Make_Anneli_Yorha_Bag.description>
-  <Make_Anneli_Yorha_Bag.jobString>制作中 (寄叶)7_背包.</Make_Anneli_Yorha_Bag.jobString>
+  <Make_Anneli_Yorha_Veil.label>制作 (寄叶)6CD_面纱</Make_Anneli_Yorha_Veil.label>
+  <Make_Anneli_Yorha_Veil.description>制作 (寄叶)6CD_面纱.</Make_Anneli_Yorha_Veil.description>
+  <Make_Anneli_Yorha_Veil.jobString>制作中 (寄叶)6CD_面纱.</Make_Anneli_Yorha_Veil.jobString>
 
-  <Make_Anneli_Yorha_POD_A.label>制作 (寄叶)8_POD_白</Make_Anneli_Yorha_POD_A.label>
-  <Make_Anneli_Yorha_POD_A.description>制作 (寄叶)8_POD_白.</Make_Anneli_Yorha_POD_A.description>
-  <Make_Anneli_Yorha_POD_A.jobString>制作中 (寄叶)8_POD_白.</Make_Anneli_Yorha_POD_A.jobString>
+  <Make_Anneli_Yorha_Bag.label>制作 (寄叶)8_背包</Make_Anneli_Yorha_Bag.label>
+  <Make_Anneli_Yorha_Bag.description>制作 (寄叶)8_背包.</Make_Anneli_Yorha_Bag.description>
+  <Make_Anneli_Yorha_Bag.jobString>制作中 (寄叶)8_背包.</Make_Anneli_Yorha_Bag.jobString>
 
-  <Make_Anneli_Yorha_POD_B.label>制作 (寄叶)8_POD_黑</Make_Anneli_Yorha_POD_B.label>
-  <Make_Anneli_Yorha_POD_B.description>制作 (寄叶)8_POD_黑.</Make_Anneli_Yorha_POD_B.description>
-  <Make_Anneli_Yorha_POD_B.jobString>制作中 (寄叶)8_POD_黑.</Make_Anneli_Yorha_POD_B.jobString>
+  <Make_Anneli_Yorha_POD_A.label>制作 (寄叶)9_POD_白</Make_Anneli_Yorha_POD_A.label>
+  <Make_Anneli_Yorha_POD_A.description>制作 (寄叶)9_POD_白.</Make_Anneli_Yorha_POD_A.description>
+  <Make_Anneli_Yorha_POD_A.jobString>制作中 (寄叶)9_POD_白.</Make_Anneli_Yorha_POD_A.jobString>
 
+  <Make_Anneli_Yorha_POD_B.label>制作 (寄叶)9_POD_黑</Make_Anneli_Yorha_POD_B.label>
+  <Make_Anneli_Yorha_POD_B.description>制作 (寄叶)9_POD_黑.</Make_Anneli_Yorha_POD_B.description>
+  <Make_Anneli_Yorha_POD_B.jobString>制作中 (寄叶)9_POD_黑.</Make_Anneli_Yorha_POD_B.jobString>
+
+
+  <!--<Make_Anneli_Yorha_Arms.label>制作 (寄叶)5_寄叶_武装</Make_Anneli_Yorha_Arms.label>-->
+  <!--<Make_Anneli_Yorha_Arms.description>制作 (寄叶)5_寄叶_武装.</Make_Anneli_Yorha_Arms.description>-->
+  <!--<Make_Anneli_Yorha_Arms.jobString>制作中 (寄叶)5_寄叶_武装.</Make_Anneli_Yorha_Arms.jobString>-->
+  <!--<Make_Anneli_Yorha_POD_A.label>制作 (寄叶)8_POD_白</Make_Anneli_Yorha_POD_A.label>-->
+  <!--<Make_Anneli_Yorha_POD_A.description>制作 (寄叶)8_POD_白.</Make_Anneli_Yorha_POD_A.description>-->
+  <!--<Make_Anneli_Yorha_POD_A.jobString>制作中 (寄叶)8_POD_白.</Make_Anneli_Yorha_POD_A.jobString>-->
+  <!--<Make_Anneli_Yorha_POD_B.label>制作 (寄叶)8_POD_黑</Make_Anneli_Yorha_POD_B.label>-->
+  <!--<Make_Anneli_Yorha_POD_B.description>制作 (寄叶)8_POD_黑.</Make_Anneli_Yorha_POD_B.description>-->
+  <!--<Make_Anneli_Yorha_POD_B.jobString>制作中 (寄叶)8_POD_黑.</Make_Anneli_Yorha_POD_B.jobString>-->
 
 </LanguageData>

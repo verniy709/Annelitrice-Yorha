@@ -7,7 +7,7 @@
 		<label>Annelitrice Yorha Apparels</label>
 	</ThingCategoryDef>
 
-	<ThingDef Name="Anneli_Yorha_ApparelCommonBase" Abstract="True">
+	<ThingDef Name="Anneli_Yorha_ApparelSpecialBase" Abstract="True">
 		<thingClass>Apparel</thingClass>
 		<category>Item</category>
 		<selectable>True</selectable>
@@ -67,6 +67,14 @@
 				 <compClass>CompColorable</compClass>
 			</li>
 		</comps>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_Yorha_ApparelCommonBase" ParentName="Anneli_Yorha_ApparelSpecialBase" Abstract="True">
+		<apparel>
+      		<tags>
+				<li>Anneli</li>
+			</tags>
+		</apparel>
 	</ThingDef>
 	
 </Defs>
