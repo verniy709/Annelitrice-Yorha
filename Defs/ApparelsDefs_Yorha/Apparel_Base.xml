@@ -46,9 +46,6 @@
 		<apparel>
 			<useWornGraphicMask>false</useWornGraphicMask>
       		<canBeGeneratedToSatisfyWarmth>false</canBeGeneratedToSatisfyWarmth>
-      		<tags>
-				<li>Anneli</li>
-			</tags>
 		</apparel>
 		<colorGenerator Class="ColorGenerator_Options">
 			<options>
