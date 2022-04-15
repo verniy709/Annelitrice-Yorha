@@ -21,7 +21,7 @@
 			<MeleeDodgeChance>0.15</MeleeDodgeChance>
 		</equippedStatOffsets>
 		<apparel>
-			<useWornGraphicMask>true</useWornGraphicMask>
+			<useWornGraphicMask>false</useWornGraphicMask>
 			<forceRenderUnderHair>true</forceRenderUnderHair>
 			<bodyPartGroups>
 				<li>Eyes</li>

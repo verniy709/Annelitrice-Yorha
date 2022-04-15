@@ -20,7 +20,7 @@
 			<ToxicSensitivity>-0.6</ToxicSensitivity>
 		</equippedStatOffsets>
 		<apparel>
-			<useWornGraphicMask>true</useWornGraphicMask>
+			<useWornGraphicMask>false</useWornGraphicMask>
 			<forceRenderUnderHair>true</forceRenderUnderHair>
 			<bodyPartGroups>
 				<li>Neck</li>

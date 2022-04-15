@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-	<ThingDef Name="Anneli_Yorha_7A" ParentName="Anneli_Gakuen_ApparelCommonBase"  Abstract="True">
+	<ThingDef Name="Anneli_Yorha_7A" ParentName="Anneli_Yorha_ApparelCommonBase"  Abstract="True">
 		<stuffCategories>
 			<li>Metallic</li>
 		</stuffCategories>
