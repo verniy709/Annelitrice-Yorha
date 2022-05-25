@@ -22,6 +22,7 @@
 		</equippedStatOffsets>
 		<apparel>
 			<shellCoversHead>false</shellCoversHead>
+			<shellRenderedBehindHead>true</shellRenderedBehindHead><!--Shell layer visual glitch-->
 			<bodyPartGroups>
 				<li>Torso</li>
 				<li>Shoulders</li>
@@ -29,7 +30,7 @@
 				<li>Legs</li>
 			</bodyPartGroups>
 			<layers>
-				<li>Anneli_Shell</li>
+				<li>Shell</li>
 			</layers>
 			<tags>
 				<li>Anneli_Yorha</li>
