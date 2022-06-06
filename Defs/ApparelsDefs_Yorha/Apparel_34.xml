@@ -21,7 +21,8 @@
 			<ComfyTemperatureMin>-30</ComfyTemperatureMin> 
 		</equippedStatOffsets>
 		<apparel>
-			<!-- <shellCoversHead>false</shellCoversHead> -->
+			<shellCoversHead>false</shellCoversHead>
+			<shellRenderedBehindHead>true</shellRenderedBehindHead><!--Shell layer visual glitch-->
 			<bodyPartGroups>
 				<li>Torso</li>
 				<li>Shoulders</li>
