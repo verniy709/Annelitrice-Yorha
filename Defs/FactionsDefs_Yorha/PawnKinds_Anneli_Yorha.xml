@@ -19,7 +19,7 @@
 		<techHediffsTags>
 			<li>Advanced</li>
 		</techHediffsTags>
-		<apparelAllowHeadgearChance>0.9</apparelAllowHeadgearChance>
+		<apparelAllowHeadgearChance>1.0</apparelAllowHeadgearChance>
 		<gearHealthRange>
 			<min>0.4</min>
 			<max>2.0</max>
