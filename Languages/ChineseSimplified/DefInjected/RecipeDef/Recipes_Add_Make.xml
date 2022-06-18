@@ -222,9 +222,13 @@
   <Make_Anneli_Yorha_Mask_B.description>制作 (寄叶)6C_口罩_B.</Make_Anneli_Yorha_Mask_B.description>
   <Make_Anneli_Yorha_Mask_B.jobString>制作中 (寄叶)6C_口罩_B.</Make_Anneli_Yorha_Mask_B.jobString>
 
-  <Make_Anneli_Yorha_Veil.label>制作 (寄叶)6CD_面纱</Make_Anneli_Yorha_Veil.label>
-  <Make_Anneli_Yorha_Veil.description>制作 (寄叶)6CD_面纱.</Make_Anneli_Yorha_Veil.description>
-  <Make_Anneli_Yorha_Veil.jobString>制作中 (寄叶)6CD_面纱.</Make_Anneli_Yorha_Veil.jobString>
+  <Make_Anneli_Yorha_Veil.label>制作 (寄叶)6C_面纱</Make_Anneli_Yorha_Veil.label>
+  <Make_Anneli_Yorha_Veil.description>制作 (寄叶)6C_面纱.</Make_Anneli_Yorha_Veil.description>
+  <Make_Anneli_Yorha_Veil.jobString>制作中 (寄叶)6C_面纱.</Make_Anneli_Yorha_Veil.jobString>
+
+  <Make_Anneli_Yorha_Arms.label>制作 (寄叶)7A_寄叶_武装</Make_Anneli_Yorha_Arms.label>
+  <Make_Anneli_Yorha_Arms.description>制作 (寄叶)7A_寄叶_武装.</Make_Anneli_Yorha_Arms.description>
+  <Make_Anneli_Yorha_Arms.jobString>制作中 (寄叶)7A_寄叶_武装.</Make_Anneli_Yorha_Arms.jobString>
 
   <Make_Anneli_Yorha_Bag.label>制作 (寄叶)8_背包</Make_Anneli_Yorha_Bag.label>
   <Make_Anneli_Yorha_Bag.description>制作 (寄叶)8_背包.</Make_Anneli_Yorha_Bag.description>
