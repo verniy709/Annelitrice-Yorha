@@ -8,9 +8,9 @@
 			<li>Fabric</li>
 		</stuffCategories>
 		<statBases>
-			<WorkToMake>1000</WorkToMake>
+			<WorkToMake>100</WorkToMake>
 			<Mass>0.1</Mass>
-			<StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierArmor>0.1</StuffEffectMultiplierArmor>
 			<StuffEffectMultiplierInsulation_Cold>0.1</StuffEffectMultiplierInsulation_Cold>
 			<StuffEffectMultiplierInsulation_Heat>0.1</StuffEffectMultiplierInsulation_Heat>
 			<EquipDelay>1</EquipDelay>
@@ -62,6 +62,25 @@
 		</graphicData>
 		<apparel>
 			<wornGraphicPath>6C/Anneli_Yorha_Mask_B</wornGraphicPath>
+			<tags>
+				<li>Anneli_Yorha_Combat</li>
+				<li>Anneli_Yorha_Support</li>
+				<li>Anneli_Yorha_Heavy</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+
+<!--Anneli_Yorha_Veil-->
+	<ThingDef ParentName="Anneli_Yorha_6C">
+		<defName>Anneli_Yorha_Veil</defName>
+		<description>(Yorha)6C_Veil</description>
+		<label>(Yorha)6C_Veil</label>
+		<graphicData>
+			<texPath>6C/Anneli_Yorha_Veil</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6C/Anneli_Yorha_Veil</wornGraphicPath>
 			<tags>
 				<li>Anneli_Yorha_Combat</li>
 				<li>Anneli_Yorha_Support</li>

@@ -2,23 +2,12 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Yorha_2C" ParentName="Anneli_Yorha_ApparelCommonBase"  Abstract="True">
-		<costStuffCount>25</costStuffCount>
-		<!-- <stuffCategories>
-			<li>Leathery</li>
-			<li>Fabric</li>
-		</stuffCategories> -->
+		<costStuffCount>20</costStuffCount>
 		<statBases>
-			<WorkToMake>2500</WorkToMake>
+			<WorkToMake>200</WorkToMake>
 			<Mass>0.5</Mass>
-			<StuffEffectMultiplierArmor>0.25</StuffEffectMultiplierArmor>
-			<StuffEffectMultiplierInsulation_Cold>0.1</StuffEffectMultiplierInsulation_Cold>
-			<StuffEffectMultiplierInsulation_Heat>0.1</StuffEffectMultiplierInsulation_Heat>
-			<EquipDelay>5</EquipDelay>
-			<Flammability>0.5</Flammability>
+			<EquipDelay>1</EquipDelay>
 		</statBases>
-		<equippedStatOffsets>
-			<MoveSpeed>0.15</MoveSpeed>
-		</equippedStatOffsets>
 		<apparel>
 			<bodyPartGroups>
 				<li>Feet</li>
@@ -31,10 +20,41 @@
 				<li>Anneli_Yorha</li>
 			</tags>
 		</apparel>
+		<graphicData>
+			<drawSize>1.2</drawSize>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_Yorha_2C_NonMetal" ParentName="Anneli_Yorha_2C"  Abstract="True">
+		<stuffCategories>
+			<li>Leathery</li>
+			<li>Fabric</li>
+		</stuffCategories>
+		<statBases>
+			<StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.2</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.2</StuffEffectMultiplierInsulation_Heat>
+			<Flammability>0.5</Flammability>
+		</statBases>
+		<equippedStatOffsets>
+			<MoveSpeed>0.15</MoveSpeed>
+		</equippedStatOffsets>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_Yorha_2C_Metal" ParentName="Anneli_Yorha_2C"  Abstract="True">
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<statBases>
+			<StuffEffectMultiplierArmor>0.75</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.75</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.75</StuffEffectMultiplierInsulation_Heat>
+			<Flammability>0.15</Flammability>
+		</statBases>
 	</ThingDef>
 
 <!--Anneli_Yorha_AnkleBoots_A-->
-	<ThingDef ParentName="Anneli_Yorha_2C">
+	<ThingDef ParentName="Anneli_Yorha_2C_NonMetal">
 		<defName>Anneli_Yorha_AnkleBoots_A</defName>
 		<description>(Yorha)2C_AnkleBoots_A</description>
 		<label>(Yorha)2C_AnkleBoots_A</label>
@@ -56,7 +76,7 @@
 	</ThingDef>
 
 <!--Anneli_Yorha_AnkleBoots_B-->
-	<ThingDef ParentName="Anneli_Yorha_2C">
+	<ThingDef ParentName="Anneli_Yorha_2C_NonMetal">
 		<defName>Anneli_Yorha_AnkleBoots_B</defName>
 		<description>(Yorha)2C_AnkleBoots_B</description>
 		<label>(Yorha)2C_AnkleBoots_B</label>
@@ -78,7 +98,7 @@
 	</ThingDef>
 
 <!--Anneli_Yorha_TacticalBoots-->
-	<ThingDef ParentName="Anneli_Yorha_2C">
+	<ThingDef ParentName="Anneli_Yorha_2C_NonMetal">
 		<defName>Anneli_Yorha_TacticalBoots</defName>
 		<description>(Yorha)2C_TacticalBoots</description>
 		<label>(Yorha)2C_TacticalBoots</label>
@@ -100,7 +120,7 @@
 	</ThingDef>
 
 <!--Anneli_Yorha_TallBoots_A-->
-	<ThingDef ParentName="Anneli_Yorha_2C">
+	<ThingDef ParentName="Anneli_Yorha_2C_NonMetal">
 		<defName>Anneli_Yorha_TallBoots_A</defName>
 		<description>(Yorha)2C_TallBoots_A</description>
 		<label>(Yorha)2C_TallBoots_A</label>
@@ -122,7 +142,7 @@
 	</ThingDef>
 
 <!--Anneli_Yorha_TallBoots_B-->
-	<ThingDef ParentName="Anneli_Yorha_2C">
+	<ThingDef ParentName="Anneli_Yorha_2C_NonMetal">
 		<defName>Anneli_Yorha_TallBoots_B</defName>
 		<description>(Yorha)2C_TallBoots_B</description>
 		<label>(Yorha)2C_TallBoots_B</label>
@@ -144,7 +164,7 @@
 	</ThingDef>
 
 <!--Anneli_Yorha_TallBoots_C-->
-	<ThingDef ParentName="Anneli_Yorha_2C">
+	<ThingDef ParentName="Anneli_Yorha_2C_NonMetal">
 		<defName>Anneli_Yorha_TallBoots_C</defName>
 		<description>(Yorha)2C_TallBoots_C</description>
 		<label>(Yorha)2C_TallBoots_C</label>
@@ -165,7 +185,7 @@
 	</ThingDef>
 
 <!--Anneli_Yorha_HeavyBoots-->
-	<ThingDef ParentName="Anneli_Yorha_2C">
+	<ThingDef ParentName="Anneli_Yorha_2C_Metal">
 		<defName>Anneli_Yorha_HeavyBoots</defName>
 		<description>(Yorha)2C_HeavyBoots</description>
 		<label>(Yorha)2C_HeavyBoots</label>
@@ -179,20 +199,6 @@
 				<li>Anneli_Yorha_Heavy</li>
 			</tags>
 		</apparel>
-		<!--Heavy armor stats-->
-		<costStuffCount>50</costStuffCount>
-		<stuffCategories>
-			<li>Metallic</li>
-		</stuffCategories>
-		<statBases>
-			<WorkToMake>7500</WorkToMake>
-			<Mass>2.5</Mass>
-			<StuffEffectMultiplierArmor>0.75</StuffEffectMultiplierArmor>
-			<StuffEffectMultiplierInsulation_Cold>0.1</StuffEffectMultiplierInsulation_Cold>
-			<StuffEffectMultiplierInsulation_Heat>0.1</StuffEffectMultiplierInsulation_Heat>
-			<EquipDelay>4</EquipDelay>
-			<Flammability>0.15</Flammability>
-		</statBases>
 	</ThingDef>
 
 </Defs>

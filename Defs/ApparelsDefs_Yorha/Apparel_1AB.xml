@@ -8,12 +8,12 @@
 			<li>Fabric</li>
 		</stuffCategories>
 		<statBases>
-			<WorkToMake>2500</WorkToMake>
-			<Mass>0.15</Mass>
-			<StuffEffectMultiplierArmor>0.05</StuffEffectMultiplierArmor>
+			<WorkToMake>250</WorkToMake>
+			<Mass>0.5</Mass>
+			<StuffEffectMultiplierArmor>0.1</StuffEffectMultiplierArmor>
 			<StuffEffectMultiplierInsulation_Cold>0.25</StuffEffectMultiplierInsulation_Cold>
 			<StuffEffectMultiplierInsulation_Heat>0.25</StuffEffectMultiplierInsulation_Heat>
-			<EquipDelay>2</EquipDelay>
+			<EquipDelay>1</EquipDelay>
 			<Flammability>0.5</Flammability>
 		</statBases>
 		<equippedStatOffsets>

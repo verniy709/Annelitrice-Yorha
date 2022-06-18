@@ -2,18 +2,18 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Yorha_2A" ParentName="Anneli_Yorha_ApparelCommonBase"  Abstract="True">
-		<costStuffCount>45</costStuffCount>
+		<costStuffCount>30</costStuffCount>
 		<stuffCategories>
 			<li>Leathery</li>
 			<li>Fabric</li>
 		</stuffCategories>
 		<statBases>
-			<WorkToMake>4500</WorkToMake>
-			<Mass>1</Mass>
-			<StuffEffectMultiplierArmor>0.25</StuffEffectMultiplierArmor>
-			<StuffEffectMultiplierInsulation_Cold>0.25</StuffEffectMultiplierInsulation_Cold>
-			<StuffEffectMultiplierInsulation_Heat>0.25</StuffEffectMultiplierInsulation_Heat>
-			<EquipDelay>2</EquipDelay>
+			<WorkToMake>300</WorkToMake>
+			<Mass>0.5</Mass>
+			<StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.3</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.3</StuffEffectMultiplierInsulation_Heat>
+			<EquipDelay>1</EquipDelay>
 			<Flammability>0.5</Flammability>
 		</statBases>
 		<equippedStatOffsets>

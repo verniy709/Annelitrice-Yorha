@@ -2,21 +2,17 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Yorha_4" ParentName="Anneli_Yorha_ApparelCommonBase"  Abstract="True">
-		<costStuffCount>100</costStuffCount>
-		<stuffCategories>
-			<li>Metallic</li>
-		</stuffCategories>
+		<costStuffCount>50</costStuffCount>
 		<statBases>
-			<WorkToMake>17500</WorkToMake>
-			<Mass>4.5</Mass>
-			<StuffEffectMultiplierArmor>0.6</StuffEffectMultiplierArmor>
-			<StuffEffectMultiplierInsulation_Cold>0.05</StuffEffectMultiplierInsulation_Cold>
-			<StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
-			<EquipDelay>10</EquipDelay>
-			<Flammability>0.15</Flammability>
+			<WorkToMake>500</WorkToMake>
+			<Mass>2</Mass>
+			<EquipDelay>1</EquipDelay>
 		</statBases>
 		<equippedStatOffsets>
-    	</equippedStatOffsets>
+			<ComfyTemperatureMin>-5</ComfyTemperatureMin>
+			<ComfyTemperatureMax>5</ComfyTemperatureMax>
+			<SuppressionPower>0.2</SuppressionPower>
+		</equippedStatOffsets>
 		<apparel>
 			<bodyPartGroups>
 				<li>Torso</li>
@@ -33,8 +29,33 @@
 		</apparel>
 	</ThingDef>
 
+	<ThingDef Name="Anneli_Yorha_4_NonMetal" ParentName="Anneli_Yorha_4"  Abstract="True">
+		<stuffCategories>
+			<li>Leathery</li>
+			<li>Fabric</li>
+		</stuffCategories>
+		<statBases>
+			<StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.5</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.5</StuffEffectMultiplierInsulation_Heat>
+			<Flammability>0.5</Flammability>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_Yorha_4_Metal" ParentName="Anneli_Yorha_4"  Abstract="True">
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<statBases>
+			<StuffEffectMultiplierArmor>0.75</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.75</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.75</StuffEffectMultiplierInsulation_Heat>
+			<Flammability>0.15</Flammability>
+		</statBases>
+	</ThingDef>
+
 <!--Anneli_Yorha_ArmorPlate-->
-	<ThingDef ParentName="Anneli_Yorha_4">
+	<ThingDef ParentName="Anneli_Yorha_4_Metal">
 		<defName>Anneli_Yorha_ArmorPlate</defName>
 		<description>(Yorha)4_ArmorPlate</description>
 		<label>(Yorha)4_ArmorPlate</label>

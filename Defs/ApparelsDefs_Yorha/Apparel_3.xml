@@ -2,24 +2,20 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Yorha_3" ParentName="Anneli_Yorha_ApparelCommonBase"  Abstract="True">
-		<costStuffCount>60</costStuffCount>
+		<costStuffCount>50</costStuffCount>
 		<stuffCategories>
 			<li>Leathery</li>
 			<li>Fabric</li>
 		</stuffCategories>
 		<statBases>
-			<WorkToMake>8000</WorkToMake>
+			<WorkToMake>500</WorkToMake>
 			<Mass>2.0</Mass>
 			<StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
 			<StuffEffectMultiplierInsulation_Cold>0.5</StuffEffectMultiplierInsulation_Cold>
 			<StuffEffectMultiplierInsulation_Heat>0.5</StuffEffectMultiplierInsulation_Heat>
-			<EquipDelay>4</EquipDelay>
+			<EquipDelay>1</EquipDelay>
 			<Flammability>0.5</Flammability>
 		</statBases>
-		<equippedStatOffsets>
-			<WorkSpeedGlobal>0.15</WorkSpeedGlobal>
-			<ComfyTemperatureMin>-6</ComfyTemperatureMin> 
-		</equippedStatOffsets>
 		<apparel>
 			<shellCoversHead>false</shellCoversHead>
 			<shellRenderedBehindHead>true</shellRenderedBehindHead><!--Shell layer visual glitch-->

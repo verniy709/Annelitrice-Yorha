@@ -58,8 +58,8 @@
 			<li>Base_Outlander_Standard</li>
 		</baseTraderKinds>
 		<allowedArrivalTemperatureRange>
-			<min>-45</min>
-			<max>50</max>
+			<min>-75</min>
+			<max>75</max>
 		</allowedArrivalTemperatureRange>
 		<pawnGroupMakers>
 			<!-- Assault Team -->

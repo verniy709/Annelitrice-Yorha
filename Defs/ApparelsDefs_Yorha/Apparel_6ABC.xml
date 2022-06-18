@@ -2,27 +2,17 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Yorha_6ABC" ParentName="Anneli_Yorha_ApparelCommonBase"  Abstract="True">
-		<costStuffCount>100</costStuffCount>
-		<!-- <stuffCategories>
-			<li>Leathery</li>
-			<li>Fabric</li>
-		</stuffCategories> -->
+		<costStuffCount>40</costStuffCount>
 		<statBases>
-			<WorkToMake>15000</WorkToMake>
-			<Mass>3.5</Mass>
-			<StuffEffectMultiplierArmor>0.85</StuffEffectMultiplierArmor>
-			<StuffEffectMultiplierInsulation_Cold>0.1</StuffEffectMultiplierInsulation_Cold>
-			<StuffEffectMultiplierInsulation_Heat>0.1</StuffEffectMultiplierInsulation_Heat>
-			<EquipDelay>5</EquipDelay>
-			<Flammability>0.15</Flammability>
+			<WorkToMake>400</WorkToMake>
+			<Mass>1.0</Mass>
+			<EquipDelay>1</EquipDelay>
+			<Flammability>0.5</Flammability>
 		</statBases>
 		<equippedStatOffsets>
-			<ToxicSensitivity>-1.0</ToxicSensitivity>
-			<PsychicSensitivity>-0.2</PsychicSensitivity>
-			<ShootingAccuracyPawn>0.1</ShootingAccuracyPawn>
+			<ToxicSensitivity>-0.6</ToxicSensitivity>
 		</equippedStatOffsets>
 		<apparel>
-			<useWornGraphicMask>false</useWornGraphicMask>
 			<bodyPartGroups>
 				<li>UpperHead</li>
 				<li>Eyes</li>
@@ -37,11 +27,40 @@
 		</apparel>		
 	</ThingDef>
 
+	<ThingDef Name="Anneli_Yorha_6ABC_NonMetal" ParentName="Anneli_Yorha_6ABC"  Abstract="True">
+		<stuffCategories>
+			<li>Leathery</li>
+			<li>Fabric</li>
+		</stuffCategories>
+		<statBases>
+			<StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.4</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.4</StuffEffectMultiplierInsulation_Heat>
+			<Flammability>0.5</Flammability>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_Yorha_6ABC_Metal" ParentName="Anneli_Yorha_6ABC"  Abstract="True">
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<statBases>
+			<StuffEffectMultiplierArmor>0.75</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.75</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.75</StuffEffectMultiplierInsulation_Heat>
+			<Flammability>0.15</Flammability>
+		</statBases>
+	</ThingDef>
+
 <!--Anneli_Yorha_HeavyHelmet-->
-	<ThingDef ParentName="Anneli_Yorha_6ABC">
+	<ThingDef ParentName="Anneli_Yorha_6ABC_Metal">
 		<defName>Anneli_Yorha_HeavyHelmet</defName>
 		<description>(Yorha)6ABC_HeavyHelmet</description>
 		<label>(Yorha)6ABC_HeavyHelmet</label>
+		<equippedStatOffsets>
+			<ToxicSensitivity>-1.0</ToxicSensitivity>
+			<PsychicSensitivity>-1.0</PsychicSensitivity>
+		</equippedStatOffsets>
 		<graphicData>
 			<texPath>6ABC/Anneli_Yorha_HeavyHelmet</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -52,19 +71,6 @@
 				<li>Anneli_Yorha_Heavy</li>
 			</tags>
 		</apparel>
-		<!--Heavy armor stats-->
-		<statBases>
-			<WorkToMake>12000</WorkToMake>
-			<Mass>3.0</Mass>
-			<StuffEffectMultiplierArmor>0.8</StuffEffectMultiplierArmor>
-			<StuffEffectMultiplierInsulation_Cold>0.4</StuffEffectMultiplierInsulation_Cold>
-			<StuffEffectMultiplierInsulation_Heat>0.4</StuffEffectMultiplierInsulation_Heat>
-			<EquipDelay>8</EquipDelay>
-			<Flammability>0.15</Flammability>
-		</statBases>
-		<stuffCategories>
-			<li>Metallic</li>
-		</stuffCategories>
 	</ThingDef>
 
 

@@ -2,23 +2,26 @@
 <Defs>
 
 	<ThingDef Name="Anneli_Yorha_34" ParentName="Anneli_Yorha_ApparelCommonBase"  Abstract="True">
-		<costStuffCount>150</costStuffCount>
-		<!-- <stuffCategories>
-			<li>Leathery</li>
-			<li>Fabric</li>
-		</stuffCategories> -->
+		<costStuffCount>100</costStuffCount>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
 		<statBases>
-			<WorkToMake>22000</WorkToMake>
-			<Mass>10</Mass>
-			<StuffEffectMultiplierArmor>0.85</StuffEffectMultiplierArmor>
-			<StuffEffectMultiplierInsulation_Cold>0.5</StuffEffectMultiplierInsulation_Cold>
-			<StuffEffectMultiplierInsulation_Heat>0.5</StuffEffectMultiplierInsulation_Heat>
-			<EquipDelay>15</EquipDelay>
+			<WorkToMake>1000</WorkToMake>
+			<Mass>4</Mass>
+			<StuffEffectMultiplierArmor>0.90</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.90</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.90</StuffEffectMultiplierInsulation_Heat>
+			<EquipDelay>1</EquipDelay>
 			<Flammability>0.15</Flammability>
 		</statBases>
 		<equippedStatOffsets>
-			<WorkSpeedGlobal>0.15</WorkSpeedGlobal>
-			<ComfyTemperatureMin>-30</ComfyTemperatureMin> 
+			<ComfyTemperatureMin>-15</ComfyTemperatureMin>
+			<ComfyTemperatureMax>15</ComfyTemperatureMax>
+			<SuppressionPower>0.2</SuppressionPower>
+			<PainShockThreshold>0.1</PainShockThreshold>
+			<MeleeHitChance>0.1</MeleeHitChance>
+			<MeleeDodgeChance>0.1</MeleeDodgeChance>
 		</equippedStatOffsets>
 		<apparel>
 			<shellCoversHead>false</shellCoversHead>
