@@ -69,6 +69,7 @@
 			<wornGraphicPath>6ABC/Anneli_Yorha_HeavyHelmet</wornGraphicPath>
 			<tags>
 				<li>Anneli_Yorha_Heavy</li>
+				<li>Anneli_FullHelmet</li>
 			</tags>
 		</apparel>
 	</ThingDef>
