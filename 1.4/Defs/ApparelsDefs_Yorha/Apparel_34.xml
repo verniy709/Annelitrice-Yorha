@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Yorha_34" ParentName="Anneli_Yorha_ApparelCommonBase"  Abstract="True">
+		<costStuffCount>100</costStuffCount>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<statBases>
+			<WorkToMake>1000</WorkToMake>
+			<Mass>4</Mass>
+			<StuffEffectMultiplierArmor>0.90</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.90</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.90</StuffEffectMultiplierInsulation_Heat>
+			<EquipDelay>1</EquipDelay>
+			<Flammability>0.15</Flammability>
+		</statBases>
+		<equippedStatOffsets>
+			<ComfyTemperatureMin>-15</ComfyTemperatureMin>
+			<ComfyTemperatureMax>15</ComfyTemperatureMax>
+			<SuppressionPower>0.2</SuppressionPower>
+			<PainShockThreshold>0.1</PainShockThreshold>
+			<MeleeHitChance>0.1</MeleeHitChance>
+			<MeleeDodgeChance>0.1</MeleeDodgeChance>
+		</equippedStatOffsets>
+		<apparel>
+			<shellCoversHead>false</shellCoversHead>
+			<shellRenderedBehindHead>true</shellRenderedBehindHead><!--Shell layer visual glitch-->
+			<bodyPartGroups>
+				<li>Torso</li>
+				<li>Shoulders</li>
+				<li>Arms</li>
+				<li>Legs</li>
+			</bodyPartGroups>
+			<layers>
+				<li>Anneli_UpperShell_Armor</li>
+				<li>Anneli_Shell</li>
+			</layers>
+			<tags>
+				<li>Anneli_Yorha</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+
+<!--Anneli_Yorha_HeavyArmor-->
+	<ThingDef ParentName="Anneli_Yorha_34">
+		<defName>Anneli_Yorha_HeavyArmor</defName>
+		<description>(Yorha)34_HeavyArmor</description>
+		<label>(Yorha)34_HeavyArmor</label>
+		<graphicData>
+			<texPath>34/Anneli_Yorha_HeavyArmor</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>34/Anneli_Yorha_HeavyArmor</wornGraphicPath>
+			<tags>
+				<li>Anneli_Yorha_Heavy</li>
+			</tags>
+		</apparel>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+	</ThingDef>
+			
+</Defs>

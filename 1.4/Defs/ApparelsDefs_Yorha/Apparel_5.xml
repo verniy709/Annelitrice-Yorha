@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Yorha_5" ParentName="Anneli_Yorha_ApparelCommonBase"  Abstract="True">
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<apparel>
+			<bodyPartGroups>
+				<li>Shoulders</li>
+			</bodyPartGroups>
+			<layers>
+				<li>Anneli_UpperShell_Tactical</li>
+			</layers>
+			<tags>
+				<li>Anneli_Yorha</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+
+
+			
+</Defs>

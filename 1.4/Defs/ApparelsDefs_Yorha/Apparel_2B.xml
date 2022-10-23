@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Yorha_2B" ParentName="Anneli_Yorha_ApparelCommonBase"  Abstract="True">
+		<costStuffCount>20</costStuffCount>
+		<stuffCategories>
+			<li>Leathery</li>
+			<li>Fabric</li>
+		</stuffCategories>
+		<statBases>
+			<WorkToMake>200</WorkToMake>
+			<Mass>0.5</Mass>
+			<StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.2</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.2</StuffEffectMultiplierInsulation_Heat>
+			<EquipDelay>1</EquipDelay>
+			<Flammability>0.5</Flammability>
+		</statBases>
+		<apparel>
+			<bodyPartGroups>
+				<li>Legs</li>
+			</bodyPartGroups>
+			<layers>
+				<li>Middle</li>
+			</layers>
+			<tags>
+				<li>Anneli_Yorha</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+
+<!--Anneli_Yorha_HealerPants-->
+	<ThingDef ParentName="Anneli_Yorha_2B">
+		<defName>Anneli_Yorha_HealerPants</defName>
+		<description>(Yorha)2B_HealerPants</description>
+		<label>(Yorha)2B_HealerPants</label>
+		<graphicData>
+			<texPath>2B/Anneli_Yorha_HealerPants</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2B/Anneli_Yorha_HealerPants</wornGraphicPath>
+			<tags>
+				<li>Anneli_Yorha_Support</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+
+<!--Anneli_Yorha_Pants-->
+	<ThingDef ParentName="Anneli_Yorha_2B">
+		<defName>Anneli_Yorha_Pants</defName>
+		<description>(Yorha)2B_Pants</description>
+		<label>(Yorha)2B_Pants</label>
+		<graphicData>
+			<texPath>2B/Anneli_Yorha_Pants</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2B/Anneli_Yorha_Pants</wornGraphicPath>
+			<tags>
+				<li>Anneli_Yorha_Combat</li>
+				<li>Anneli_Yorha_Heavy</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+
+<!--Anneli_Yorha_Shorts-->
+	<ThingDef ParentName="Anneli_Yorha_2B">
+		<defName>Anneli_Yorha_Shorts</defName>
+		<description>(Yorha)2B_Shorts</description>
+		<label>(Yorha)2B_Shorts</label>
+		<graphicData>
+			<texPath>2B/Anneli_Yorha_Shorts</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2B/Anneli_Yorha_Shorts</wornGraphicPath>
+			<tags>
+				<li>Anneli_Yorha_Combat</li>
+				<li>Anneli_Yorha_Heavy</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+
+<!--Anneli_Yorha_Skirt-->
+	<ThingDef ParentName="Anneli_Yorha_2B">
+		<defName>Anneli_Yorha_Skirt</defName>
+		<description>(Yorha)2B_Skirt</description>
+		<label>(Yorha)2B_Skirt</label>
+		<graphicData>
+			<texPath>2B/Anneli_Yorha_Skirt</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2B/Anneli_Yorha_Skirt</wornGraphicPath>
+			<tags>
+				<li>Anneli_Yorha_Combat</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+
+<!--Anneli_Yorha_TightSkirt-->
+	<ThingDef ParentName="Anneli_Yorha_2B">
+		<defName>Anneli_Yorha_TightSkirt</defName>
+		<description>(Yorha)2B_TightSkirt</description>
+		<label>(Yorha)2B_TightSkirt</label>
+		<graphicData>
+			<texPath>2B/Anneli_Yorha_TightSkirt</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>2B/Anneli_Yorha_TightSkirt</wornGraphicPath>
+			<tags>
+				<li>Anneli_Yorha_Combat</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+			
+</Defs>

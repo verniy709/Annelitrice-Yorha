@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="Anneli_Yorha_6ABC" ParentName="Anneli_Yorha_ApparelCommonBase"  Abstract="True">
+		<costStuffCount>40</costStuffCount>
+		<statBases>
+			<WorkToMake>400</WorkToMake>
+			<Mass>1.0</Mass>
+			<EquipDelay>1</EquipDelay>
+			<Flammability>0.5</Flammability>
+		</statBases>
+		<apparel>
+			<bodyPartGroups>
+				<li>UpperHead</li>
+				<li>Eyes</li>
+				<li>Neck</li>
+			</bodyPartGroups>
+			<layers>
+				<li>Overhead</li>
+			</layers>
+			<tags>
+				<li>Anneli_Yorha</li>
+			</tags>
+		</apparel>		
+	</ThingDef>
+
+	<ThingDef Name="Anneli_Yorha_6ABC_NonMetal" ParentName="Anneli_Yorha_6ABC"  Abstract="True">
+		<stuffCategories>
+			<li>Leathery</li>
+			<li>Fabric</li>
+		</stuffCategories>
+		<statBases>
+			<StuffEffectMultiplierArmor>0.3</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.4</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.4</StuffEffectMultiplierInsulation_Heat>
+			<Flammability>0.5</Flammability>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef Name="Anneli_Yorha_6ABC_Metal" ParentName="Anneli_Yorha_6ABC"  Abstract="True">
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<statBases>
+			<StuffEffectMultiplierArmor>0.75</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierInsulation_Cold>0.75</StuffEffectMultiplierInsulation_Cold>
+			<StuffEffectMultiplierInsulation_Heat>0.75</StuffEffectMultiplierInsulation_Heat>
+			<Flammability>0.15</Flammability>
+		</statBases>
+	</ThingDef>
+
+<!--Anneli_Yorha_HeavyHelmet-->
+	<ThingDef ParentName="Anneli_Yorha_6ABC_Metal">
+		<defName>Anneli_Yorha_HeavyHelmet</defName>
+		<description>(Yorha)6ABC_HeavyHelmet</description>
+		<label>(Yorha)6ABC_HeavyHelmet</label>
+		<equippedStatOffsets>
+			<ToxicResistance>1.0</ToxicResistance>
+			<PsychicSensitivity>-1.0</PsychicSensitivity>
+		</equippedStatOffsets>
+		<graphicData>
+			<texPath>6ABC/Anneli_Yorha_HeavyHelmet</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<apparel>
+			<wornGraphicPath>6ABC/Anneli_Yorha_HeavyHelmet</wornGraphicPath>
+			<tags>
+				<li>Anneli_Yorha_Heavy</li>
+				<li>Anneli_FullHelmet</li>
+			</tags>
+		</apparel>
+	</ThingDef>
+
+
+			
+</Defs>
