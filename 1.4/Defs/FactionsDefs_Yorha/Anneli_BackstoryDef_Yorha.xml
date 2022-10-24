@@ -3,11 +3,11 @@
 
 <!--Adulthood-->
 
-	<AlienRace.BackstoryDef ParentName="Anneli_Backstory_Base">
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
 		<defName>Anneli_Yorha_Combatant</defName>
 		<title>Annelitrice Yorha Combatant</title>
 		<titleShort>Yorha Combatant</titleShort>
-		<baseDescription>[PAWN_nameDef] acts as a Yorha combatant, a well-trained and determined warrior.</baseDescription>
+		<baseDesc>[PAWN_nameDef] acts as a Yorha combatant, a well-trained and determined warrior.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
 			<li>
@@ -27,13 +27,13 @@
 		<li>Anneli_Story_Yorha</li>
 		<li>Anneli_Story</li>
 	</spawnCategories>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 
-	<AlienRace.BackstoryDef ParentName="Anneli_Backstory_Base">
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
 		<defName>Anneli_Yorha_FrontlineOfficer</defName>
 		<title>Annelitrice Yorha Frontline Officer</title>
 		<titleShort>Yorha Frontline Officer</titleShort>
-		<baseDescription>[PAWN_nameDef] acts as a Yorha frontline officer, responsible for building fortifications.</baseDescription>
+		<baseDesc>[PAWN_nameDef] acts as a Yorha frontline officer, responsible for building fortifications.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
 			<li>
@@ -49,13 +49,13 @@
 		<li>Anneli_Story_Yorha</li>
 		<li>Anneli_Story</li>
 	</spawnCategories>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 
-	<AlienRace.BackstoryDef ParentName="Anneli_Backstory_Base">
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
 		<defName>Anneli_Yorha_Scout</defName>
 		<title>Annelitrice Yorha Scout</title>
 		<titleShort>Yorha Scout</titleShort>
-		<baseDescription>[PAWN_nameDef] acts as a Yorha scout, eyes and ears on the field.</baseDescription>
+		<baseDesc>[PAWN_nameDef] acts as a Yorha scout, eyes and ears on the field.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
 			<li>
@@ -75,13 +75,13 @@
 		<li>Anneli_Story_Yorha</li>
 		<li>Anneli_Story</li>
 	</spawnCategories>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 
-	<AlienRace.BackstoryDef ParentName="Anneli_Backstory_Base">
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
 		<defName>Anneli_Yorha_Logistics_Officer</defName>
 		<title>Annelitrice Yorha Logistics Officer</title>
 		<titleShort>Yorha Logistics Officer</titleShort>
-		<baseDescription>[PAWN_nameDef] acts as a Yorha logistics officer. Her duty is confidential, because everyone pretends foods are not needed.</baseDescription>
+		<baseDesc>[PAWN_nameDef] acts as a Yorha logistics officer. Her duty is confidential, because everyone pretends foods are not needed.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
 			<li>
@@ -109,13 +109,13 @@
 		<li>Anneli_Story_Yorha</li>
 		<li>Anneli_Story</li>
 	</spawnCategories>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 
-	<AlienRace.BackstoryDef ParentName="Anneli_Backstory_Base">
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
 		<defName>Anneli_Yorha_Commander</defName>
 		<title>Annelitrice Yorha Commander</title>
 		<titleShort>Yorha Commander</titleShort>
-		<baseDescription>[PAWN_nameDef] acts as a Yorha commander. She does not spend much time on trivia.</baseDescription>
+		<baseDesc>[PAWN_nameDef] acts as a Yorha commander. She does not spend much time on trivia.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
 			<li>
@@ -147,13 +147,13 @@
 		<li>Anneli_Story_Yorha</li>
 		<li>Anneli_Story</li>
 	</spawnCategories>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 
-	<AlienRace.BackstoryDef ParentName="Anneli_Backstory_Base">
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
 		<defName>Anneli_Yorha_Deserter</defName>
 		<title>Annelitrice Yorha Deserter</title>
 		<titleShort>Yorha Deserter</titleShort>
-		<baseDescription>[PAWN_nameDef] acts as a Yorha deserter. She has some questions about the goal of this organization.</baseDescription>
+		<baseDesc>[PAWN_nameDef] acts as a Yorha deserter. She has some questions about the goal of this organization.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
 			<li>
@@ -173,13 +173,13 @@
 		<li>Anneli_Story_Yorha</li>
 		<li>Anneli_Story</li>
 	</spawnCategories>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 
-	<AlienRace.BackstoryDef ParentName="Anneli_Backstory_Base">
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
 		<defName>Anneli_Yorha_Executioner</defName>
 		<title>Annelitrice Yorha Executioner</title>
 		<titleShort>Yorha Executioner</titleShort>
-		<baseDescription>[PAWN_nameDef] acts as a Yorha executioner. She takes care of the ones who ask too many questions.</baseDescription>
+		<baseDesc>[PAWN_nameDef] acts as a Yorha executioner. She takes care of the ones who ask too many questions.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
 			<li>
@@ -199,13 +199,13 @@
 		<li>Anneli_Story_Yorha</li>
 		<li>Anneli_Story</li>
 	</spawnCategories>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 
-	<AlienRace.BackstoryDef ParentName="Anneli_Backstory_Base">
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
 		<defName>Anneli_Yorha_Hacker</defName>
 		<title>Annelitrice Yorha Hacker</title>
 		<titleShort>Yorha Hacker</titleShort>
-		<baseDescription>[PAWN_nameDef] acts as a Yorha hacker. She provides intelligence support for operations.</baseDescription>
+		<baseDesc>[PAWN_nameDef] acts as a Yorha hacker. She provides intelligence support for operations.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
 			<li>
@@ -229,13 +229,13 @@
 		<li>Anneli_Story_Yorha</li>
 		<li>Anneli_Story</li>
 	</spawnCategories>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 
-	<AlienRace.BackstoryDef ParentName="Anneli_Backstory_Base">
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
 		<defName>Anneli_Yorha_Healer</defName>
 		<title>Annelitrice Yorha Healer</title>
 		<titleShort>Yorha Healer</titleShort>
-		<baseDescription>[PAWN_nameDef] acts as a Yorha healer, "reparing" the wounds.</baseDescription>
+		<baseDesc>[PAWN_nameDef] acts as a Yorha healer, "reparing" the wounds.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
 			<li>
@@ -259,13 +259,13 @@
 		<li>Anneli_Story_Yorha</li>
 		<li>Anneli_Story</li>
 	</spawnCategories>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 
-	<AlienRace.BackstoryDef ParentName="Anneli_Backstory_Base">
+	<AlienRace.AlienBackstoryDef ParentName="Anneli_Backstory_Base">
 		<defName>Anneli_Yorha_Operator</defName>
 		<title>Annelitrice Yorha Operator</title>
 		<titleShort>Yorha Operator</titleShort>
-		<baseDescription>[PAWN_nameDef] acts as a Yorha operator, not designed for combat.</baseDescription>
+		<baseDesc>[PAWN_nameDef] acts as a Yorha operator, not designed for combat.</baseDesc>
 		<slot>Adulthood</slot>
 		<skillGains>
 			<li>
@@ -297,6 +297,6 @@
 		<li>Anneli_Story_Yorha</li>
 		<li>Anneli_Story</li>
 	</spawnCategories>
-	</AlienRace.BackstoryDef>
+	</AlienRace.AlienBackstoryDef>
 
 </Defs>
