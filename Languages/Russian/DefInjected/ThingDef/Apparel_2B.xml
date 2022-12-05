@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_Yorha_HealerPants -->
+
+  <Anneli_Yorha_HealerPants.label>"Ёрха" Медицинские брюки</Anneli_Yorha_HealerPants.label>
+  <Anneli_Yorha_HealerPants.description>"Ёрха" Медицинские брюки</Anneli_Yorha_HealerPants.description>
+
+
+  <!-- Anneli_Yorha_Pants -->
+
+  <Anneli_Yorha_Pants.label>"Ёрха" Брюки</Anneli_Yorha_Pants.label>
+  <Anneli_Yorha_Pants.description>"Ёрха" Брюки</Anneli_Yorha_Pants.description>
+
+
+  <!-- Anneli_Yorha_Shorts -->
+
+  <Anneli_Yorha_Shorts.label>"Ёрха" Шорты</Anneli_Yorha_Shorts.label>
+  <Anneli_Yorha_Shorts.description>"Ёрха" Шорты</Anneli_Yorha_Shorts.description>
+
+
+  <!-- Anneli_Yorha_Skirt -->
+
+  <Anneli_Yorha_Skirt.label>Ёрха" Короткая юбка</Anneli_Yorha_Skirt.label>
+  <Anneli_Yorha_Skirt.description>Ёрха" Короткая юбка</Anneli_Yorha_Skirt.description>
+
+
+  <!-- Anneli_Yorha_TightSkirt -->
+
+  <Anneli_Yorha_TightSkirt.label>"Ёрха" Узкая юбка</Anneli_Yorha_TightSkirt.label>
+  <Anneli_Yorha_TightSkirt.description>"Ёрха" Узкая юбка</Anneli_Yorha_TightSkirt.description>
+
+
+</LanguageData>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Adulthood -->
+
+  <Anneli_Yorha_Combatant.title>Штурмовик "Ёрха"</Anneli_Yorha_Combatant.title>
+  <Anneli_Yorha_Combatant.titleShort>Штурмовик</Anneli_Yorha_Combatant.titleShort>
+  <Anneli_Yorha_Combatant.baseDescription>[PAWN_nameDef]Штурмовик из подразделения "Ёрха", она хорошо обученна и квалифицированна.</Anneli_Yorha_Combatant.baseDescription>
+
+  <Anneli_Yorha_FrontlineOfficer.title>Офицер "Ёрха"</Anneli_Yorha_FrontlineOfficer.title>
+  <Anneli_Yorha_FrontlineOfficer.titleShort>Офицер</Anneli_Yorha_FrontlineOfficer.titleShort>
+  <Anneli_Yorha_FrontlineOfficer.baseDescription>[PAWN_nameDef] должностное лицо силовых структур "Ёрха".</Anneli_Yorha_FrontlineOfficer.baseDescription>
+
+  <Anneli_Yorha_Scout.title>Разведчик "Ёрха"</Anneli_Yorha_Scout.title>
+  <Anneli_Yorha_Scout.titleShort>Разведчик</Anneli_Yorha_Scout.titleShort>
+  <Anneli_Yorha_Scout.baseDescription>[PAWN_nameDef]она осуществляет сбор данных о точках дислокации, имеющемся вооружении и численности противника.</Anneli_Yorha_Scout.baseDescription>
+
+  <Anneli_Yorha_Logistics_Officer.title>Офицер связи "Ёрха"</Anneli_Yorha_Logistics_Officer.title>
+  <Anneli_Yorha_Logistics_Officer.titleShort>Офицер</Anneli_Yorha_Logistics_Officer.titleShort>
+  <Anneli_Yorha_Logistics_Officer.baseDescription>[PAWN_nameDef] -это лицо, которое поддерживает связь между двумя или более организациями для связи и координации их деятельности по вопросу, представляющему взаимный интерес. Как правило, сотрудники по связям используются для достижения наилучшего использования ресурсов или использования услуг одной организации другой..</Anneli_Yorha_Logistics_Officer.baseDescription>
+
+  <Anneli_Yorha_Commander.title>Командир "Ёрха"</Anneli_Yorha_Commander.title>
+  <Anneli_Yorha_Commander.titleShort>Командир</Anneli_Yorha_Commander.titleShort>
+  <Anneli_Yorha_Commander.baseDescription>[PAWN_nameDef] — должностное лицо командного состава в вооружённых силах "Ёрха", на которое возложено командование подразделением, [PAWN_nameDef] является единоначальником и несёт личную ответственность за постоянную боевую и мобилизационную готовность подразделения.</Anneli_Yorha_Commander.baseDescription>
+
+  <Anneli_Yorha_Deserter.title>Дезертир "Ёрха"</Anneli_Yorha_Deserter.title>
+  <Anneli_Yorha_Deserter.titleShort>Дезертир</Anneli_Yorha_Deserter.titleShort>
+  <Anneli_Yorha_Deserter.baseDescription>[PAWN_nameDef]она та, которая совершила измену или предательство,.</Anneli_Yorha_Deserter.baseDescription>
+
+  <Anneli_Yorha_Executioner.title>Каратель "Ёрха"</Anneli_Yorha_Executioner.title>
+  <Anneli_Yorha_Executioner.titleShort>Каратель</Anneli_Yorha_Executioner.titleShort>
+  <Anneli_Yorha_Executioner.baseDescription>[PAWN_nameDef]входит в состав карательного отряда "Ёрха", наводивший демократический порядок по всему свету.</Anneli_Yorha_Executioner.baseDescription>
+
+  <Anneli_Yorha_Hacker.title>Хакер "Ёрха"</Anneli_Yorha_Hacker.title>
+  <Anneli_Yorha_Hacker.titleShort>Хакер</Anneli_Yorha_Hacker.titleShort>
+  <Anneli_Yorha_Hacker.baseDescription>[PAWN_nameDef] она исследует методы взлома защиты и использования слабых мест в компьютерной системе или сети.</Anneli_Yorha_Hacker.baseDescription>
+
+  <Anneli_Yorha_Healer.title>Медик "Ёрха"</Anneli_Yorha_Healer.title>
+  <Anneli_Yorha_Healer.titleShort>Медик</Anneli_Yorha_Healer.titleShort>
+  <Anneli_Yorha_Healer.baseDescription>[PAWN_nameDef]специалист с законченным высшим образованием в области медицины, занимающийся лечением больных.</Anneli_Yorha_Healer.baseDescription>
+
+  <Anneli_Yorha_Operator.title>Оператор "Ёрха"</Anneli_Yorha_Operator.title>
+  <Anneli_Yorha_Operator.titleShort>Оператор</Anneli_Yorha_Operator.titleShort>
+  <Anneli_Yorha_Operator.baseDescription>[PAWN_nameDef] контролирует работу компьютерных систем, обеспечивая правильную работу машин и компьютеров. Работа оператора компьютера , заключается в "мониторинге и контроле.</Anneli_Yorha_Operator.baseDescription>
+
+
+</LanguageData>

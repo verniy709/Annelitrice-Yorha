@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anneli_Yorha_Bag -->
+
+  <Anneli_Yorha_Bag.label>"Ёрха" Рюкзак</Anneli_Yorha_Bag.label>
+  <Anneli_Yorha_Bag.description>"Ёрха" Рюкзак</Anneli_Yorha_Bag.description>
+
+
+  <!-- Anneli_Yorha_POD_A -->
+  <!--<Anneli_Yorha_POD_A.label>(寄叶)8_POD_白</Anneli_Yorha_POD_A.label>-->
+  <!--<Anneli_Yorha_POD_A.description>(寄叶)8_POD_白</Anneli_Yorha_POD_A.description>-->
+  <!--<Anneli_Yorha_POD_A.verbs.0.label>发射激光</Anneli_Yorha_POD_A.verbs.0.label>-->
+  <!-- Anneli_Yorha_POD_B -->
+  <!--<Anneli_Yorha_POD_B.label>(寄叶)8_POD_黑</Anneli_Yorha_POD_B.label>-->
+  <!--<Anneli_Yorha_POD_B.description>(寄叶)8_POD_黑</Anneli_Yorha_POD_B.description>-->
+  <!--<Anneli_Yorha_POD_B.verbs.0.label>发射激光</Anneli_Yorha_POD_B.verbs.0.label>-->
+
+</LanguageData>

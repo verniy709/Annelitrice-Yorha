@@ -5,43 +5,43 @@
 
   <Anneli_Yorha_Combatant.title>安奈缇娅斯寄叶战斗员</Anneli_Yorha_Combatant.title>
   <Anneli_Yorha_Combatant.titleShort>寄叶战斗员</Anneli_Yorha_Combatant.titleShort>
-  <Anneli_Yorha_Combatant.baseDescription>[PAWN_nameDef]扮演一名寄叶战斗员, 训练有素且鉴定的战士.</Anneli_Yorha_Combatant.baseDescription>
+  <Anneli_Yorha_Combatant.baseDesc>[PAWN_nameDef]扮演一名寄叶战斗员, 训练有素且鉴定的战士.</Anneli_Yorha_Combatant.baseDesc>
 
   <Anneli_Yorha_FrontlineOfficer.title>安奈缇娅斯寄叶前线军官</Anneli_Yorha_FrontlineOfficer.title>
   <Anneli_Yorha_FrontlineOfficer.titleShort>寄叶前线军官</Anneli_Yorha_FrontlineOfficer.titleShort>
-  <Anneli_Yorha_FrontlineOfficer.baseDescription>[PAWN_nameDef]扮演一名寄叶前线军官, 主要负责工事的修建.</Anneli_Yorha_FrontlineOfficer.baseDescription>
+  <Anneli_Yorha_FrontlineOfficer.baseDesc>[PAWN_nameDef]扮演一名寄叶前线军官, 主要负责工事的修建.</Anneli_Yorha_FrontlineOfficer.baseDesc>
 
   <Anneli_Yorha_Scout.title>安奈缇娅斯寄叶侦查员</Anneli_Yorha_Scout.title>
   <Anneli_Yorha_Scout.titleShort>寄叶侦查员</Anneli_Yorha_Scout.titleShort>
-  <Anneli_Yorha_Scout.baseDescription>[PAWN_nameDef]扮演一名寄叶侦查员, 眼观六路，耳听八方.</Anneli_Yorha_Scout.baseDescription>
+  <Anneli_Yorha_Scout.baseDesc>[PAWN_nameDef]扮演一名寄叶侦查员, 眼观六路，耳听八方.</Anneli_Yorha_Scout.baseDesc>
 
   <Anneli_Yorha_Logistics_Officer.title>安奈缇娅斯寄叶后勤官</Anneli_Yorha_Logistics_Officer.title>
   <Anneli_Yorha_Logistics_Officer.titleShort>寄叶后勤官</Anneli_Yorha_Logistics_Officer.titleShort>
-  <Anneli_Yorha_Logistics_Officer.baseDescription>[PAWN_nameDef]扮演一名寄叶后勤官. 她的工作是机密，因为这里所有人都假装不需要食物.</Anneli_Yorha_Logistics_Officer.baseDescription>
+  <Anneli_Yorha_Logistics_Officer.baseDesc>[PAWN_nameDef]扮演一名寄叶后勤官. 她的工作是机密，因为这里所有人都假装不需要食物.</Anneli_Yorha_Logistics_Officer.baseDesc>
 
   <Anneli_Yorha_Commander.title>安奈缇娅斯寄叶指挥官</Anneli_Yorha_Commander.title>
   <Anneli_Yorha_Commander.titleShort>寄叶指挥官</Anneli_Yorha_Commander.titleShort>
-  <Anneli_Yorha_Commander.baseDescription>[PAWN_nameDef]扮演一名寄叶指挥官. 她不需要为琐事而烦恼.</Anneli_Yorha_Commander.baseDescription>
+  <Anneli_Yorha_Commander.baseDesc>[PAWN_nameDef]扮演一名寄叶指挥官. 她不需要为琐事而烦恼.</Anneli_Yorha_Commander.baseDesc>
 
   <Anneli_Yorha_Deserter.title>安奈缇娅斯寄叶叛徒</Anneli_Yorha_Deserter.title>
   <Anneli_Yorha_Deserter.titleShort>寄叶叛徒</Anneli_Yorha_Deserter.titleShort>
-  <Anneli_Yorha_Deserter.baseDescription>[PAWN_nameDef]扮演一名寄叶叛徒. 她对整个组织的最终目标产生了怀疑.</Anneli_Yorha_Deserter.baseDescription>
+  <Anneli_Yorha_Deserter.baseDesc>[PAWN_nameDef]扮演一名寄叶叛徒. 她对整个组织的最终目标产生了怀疑.</Anneli_Yorha_Deserter.baseDesc>
 
   <Anneli_Yorha_Executioner.title>安奈缇娅斯寄叶处刑者</Anneli_Yorha_Executioner.title>
   <Anneli_Yorha_Executioner.titleShort>寄叶处刑者</Anneli_Yorha_Executioner.titleShort>
-  <Anneli_Yorha_Executioner.baseDescription>[PAWN_nameDef]扮演一名寄叶处刑者. 她负责处理那些问太多问题的同僚.</Anneli_Yorha_Executioner.baseDescription>
+  <Anneli_Yorha_Executioner.baseDesc>[PAWN_nameDef]扮演一名寄叶处刑者. 她负责处理那些问太多问题的同僚.</Anneli_Yorha_Executioner.baseDesc>
 
   <Anneli_Yorha_Hacker.title>安奈缇娅斯寄叶黑客</Anneli_Yorha_Hacker.title>
   <Anneli_Yorha_Hacker.titleShort>寄叶黑客</Anneli_Yorha_Hacker.titleShort>
-  <Anneli_Yorha_Hacker.baseDescription>[PAWN_nameDef]扮演一名寄叶黑客. 她为行动提供情报支援.</Anneli_Yorha_Hacker.baseDescription>
+  <Anneli_Yorha_Hacker.baseDesc>[PAWN_nameDef]扮演一名寄叶黑客. 她为行动提供情报支援.</Anneli_Yorha_Hacker.baseDesc>
 
   <Anneli_Yorha_Healer.title>安奈缇娅斯寄叶医疗兵</Anneli_Yorha_Healer.title>
   <Anneli_Yorha_Healer.titleShort>寄叶医疗兵</Anneli_Yorha_Healer.titleShort>
-  <Anneli_Yorha_Healer.baseDescription>[PAWN_nameDef]扮演一名寄叶医疗兵, "修复"伤口.</Anneli_Yorha_Healer.baseDescription>
+  <Anneli_Yorha_Healer.baseDesc>[PAWN_nameDef]扮演一名寄叶医疗兵, "修复"伤口.</Anneli_Yorha_Healer.baseDesc>
 
   <Anneli_Yorha_Operator.title>安奈缇娅斯寄叶通讯官</Anneli_Yorha_Operator.title>
   <Anneli_Yorha_Operator.titleShort>寄叶通讯官</Anneli_Yorha_Operator.titleShort>
-  <Anneli_Yorha_Operator.baseDescription>[PAWN_nameDef]扮演一名寄叶通讯官, 并不适合战斗.</Anneli_Yorha_Operator.baseDescription>
+  <Anneli_Yorha_Operator.baseDesc>[PAWN_nameDef]扮演一名寄叶通讯官, 并不适合战斗.</Anneli_Yorha_Operator.baseDesc>
 
 
 </LanguageData>
